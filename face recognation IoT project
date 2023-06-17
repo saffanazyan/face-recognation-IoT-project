@@ -20,13 +20,10 @@ face recognation IoT project
 #include <settings.h>
 
 // HTML files
-```
 extern const char index_html_min_start[] asm("_binary_html_index_min_html_start");
 extern const char restart_html_min_start[] asm("_binary_html_restart_min_html_start");
-```
 auto param_group_board = iotwebconf::ParameterGroup("board", "Board settings");
 auto param_board = iotwebconf::Builder<iotwebconf::SelectTParameter<sizeof(camera_configs[0])>>("bt").label("Board").optionValues((const char *)&camera_configs).optionNames((const char *)&camera_configs).optionCount(sizeof(camera_configs) / sizeof(camera_configs[0])).nameLength(sizeof(camera_configs[0])).defaultValue(DEFAULT_CAMERA_CONFIG).build();
-
 auto param_group_camera = iotwebconf::ParameterGroup("camera", "Camera settings");
 auto param_frame_duration = iotwebconf::Builder<iotwebconf::UIntTParameter<unsigned long>>("fd").label("Frame duration (ms)").defaultValue(DEFAULT_FRAME_DURATION).min(10).build();
 auto param_frame_size = iotwebconf::Builder<iotwebconf::SelectTParameter<sizeof(frame_sizes[0])>>("fs").label("Frame size").optionValues((const char *)&frame_sizes).optionNames((const char *)&frame_sizes).optionCount(sizeof(frame_sizes) / sizeof(frame_sizes[0])).nameLength(sizeof(frame_sizes[0])).defaultValue(DEFAULT_FRAME_SIZE).build();
@@ -413,7 +410,6 @@ void setup()
 
   param_group_board.addItem(&param_board);
   iotWebConf.addParameterGroup(&param_group_board);
-
   param_group_camera.addItem(&param_frame_duration);
   param_group_camera.addItem(&param_frame_size);
   param_group_camera.addItem(&param_jpg_quality);
