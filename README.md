@@ -20,9 +20,10 @@ face recognation IoT project
 #include <settings.h>
 
 // HTML files
+```
 extern const char index_html_min_start[] asm("_binary_html_index_min_html_start");
 extern const char restart_html_min_start[] asm("_binary_html_restart_min_html_start");
-
+```
 auto param_group_board = iotwebconf::ParameterGroup("board", "Board settings");
 auto param_board = iotwebconf::Builder<iotwebconf::SelectTParameter<sizeof(camera_configs[0])>>("bt").label("Board").optionValues((const char *)&camera_configs).optionNames((const char *)&camera_configs).optionCount(sizeof(camera_configs) / sizeof(camera_configs[0])).nameLength(sizeof(camera_configs[0])).defaultValue(DEFAULT_CAMERA_CONFIG).build();
 
