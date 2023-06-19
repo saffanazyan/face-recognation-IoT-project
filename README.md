@@ -30,7 +30,7 @@ This software supports the following ESP32-CAM (and alike) modules:
 - WROVER-KIT
 - M5STACK
 
-[ESP32CAM module](assets/ESP32-CAM.jpg)
+![ESP32CAM module](assets/ESP32-CAM.jpg)
 
 The software provides a **configuration web server**, that can be used to:
 
@@ -109,7 +109,7 @@ This will put the ESP32-CAM board in download mode.
 
 this is our product
 
-![Our Product GuardianCam](assets/ESP32CAM IN PAKAGE.jpeg)
+[Our Product GuardianCam](assets/ESP32CAM IN PAKAGE.jpeg)
 
 ### FTDI adapter
 
