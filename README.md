@@ -22,14 +22,6 @@ Supported protocols
   The HTTP Image returns an HTTP JPEG image of the camera.
   The URL is http://&lt;ip address&gt;/snapshot
 
-This software supports the following ESP32-CAM (and alike) modules:
-
-- ESP32CAM
-- AI THINKER
-- TTGO T-CAM
-- WROVER-KIT
-- M5STACK
-
 ![ESP32CAM module](assets/ESP32-CAM.jpg)
 
 The software provides a **configuration web server**, that can be used to:
@@ -44,29 +36,7 @@ The software provides a **configuration web server**, that can be used to:
 - Select the JPEG quality
 - Enable the use of the PSRAM
 - Set the number of frame buffers
-- Configure the camera options:
-  - Brightness
-  - Contrast
-  - Saturation
-  - Special effect (Normal, Negative, Grayscale, Red/Green/Blue tint, Sepia)
-  - White balance
-  - Automatic White Balance gain
-  - Wite Balance mode
-  - Exposure control
-  - Auto Exposure (dsp)
-  - Auto Exposure level
-  - Manual exposure value
-  - Gain control
-  - Manual gain control
-  - Auto gain ceiling
-  - Black pixel correction
-  - White pixel correction
-  - Gamma correction
-  - Lens correction
-  - Horizontal mirror
-  - Vertical flip
-  - Downside enable
-  - Color bar
+- Configure the camera options
 
 The software provides contains also a mDNS server to be easily discoverable on the local network.
 It advertises HTTP (port 80) and RTSP (port 554)
