@@ -1,0 +1,1788 @@
+State changing from: 2 to 3
+
+[ 11636][V][WiFiGeneric.cpp:395] _arduino_event_cb(): AP Stopped
+
+[ 11636][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 11 - AP_STOP
+
+[ 11640][V][WiFiGeneric.cpp:392] _arduino_event_cb(): AP Started
+
+[ 11643][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 10 - AP_START
+
+EC (23540) wifi_init_default: esp_wifi_get_mac failed with 12289
+
+onnecting to [MITLAB703[ 11656][V][WiFiGeneric.cpp:395] _arduino_event_cb(): AP Stopped
+
+] (password is hidden)[ 11666][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 11 - AP_STOP
+
+
+
+WiFi timeout (ms): 30000
+
+[ 11699][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 0 - WIFI_READY
+
+[ 11703][V][WiFiGeneric.cpp:340] _arduino_event_cb(): STA Started
+
+[ 11705][V�ets Jun  8 2016 00:22:57
+
+
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+
+configsip: 0, SPIWP:0xee
+
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+
+mode:DIO, clock div:2
+
+load:0x3fff0030,len:1184
+
+load:0x40078000,len:13192
+
+load:0x40080400,len:3028
+
+entry 0x400805e4
+
+[     4][V][WiFiServer.h:42] WiFiServer(): WiFiServer::WiFiServer(port=80, ...)
+
+[     4][V][WebServer.cpp:87] WebServer(): WebServer::Webserver(port=80)
+
+[    33][D][esp32-hal-cpu.c:244] setCpuFrequencyMhz(): PLL: 480 / 2 = 240 Mhz, APB: 80000000 Hz
+
+[   481][I][esp32-hal-psram.c:96] psramInit(): PSRAM enabled
+
+[   507][V][[   508][I][main.cpp:400] setup(): CPU Freq: 240 Mhz
+
+[   508][I][main.cpp:401] setup(): Free heap: 248600 bytes
+
+[   509][I][main.cpp:402] setup(): SDK version: v4.4.4
+
+[   512][I][main.cpp:403] setup(): Starting ESP32CAM-RTSP...
+
+[   517][V][main.cpp:408] setup(): PSRAM found and initialized
+
+Config version: 1.5
+
+Config size: 455
+
+Loading configurations
+
+[iwcAll]
+
+|-- [iwcSys]
+
+|   |-- 'iwcThingName' with value: 'ESP32CAM-RTSP'
+
+|   |-- 'iwcApPassword' with value: <hidden>
+
+|   |-- [iwcWifi0]
+
+|   |   |-- 'iwcWifiSsid' with value: 'MITLAB703'
+
+|   |   \-- 'iwcWifiPassword' with value: <hidden>
+
+|   \-- 'iwcApTimeout' with value: '10'
+
+|-- [iwcCustom]
+
+|   |-- [board]
+
+|   |   \-- 'bt' with value: 'AI THINKER'
+
+|   |-- [camera]
+
+|   |   |-- 'fd' with value: '10'
+
+|   |   |-- 'fs' with value: 'SVGA (800x600)'
+
+|   |   |-- 'q' with value: '50'
+
+|   |   |-- 'eps' with value: '1'
+
+|   |   |-- 'fb' with value: '1'
+
+|   |   |-- 'b' with value: '0'
+
+|   |   |-- 'c' with value: '0'
+
+|   |   |-- 's' with value: '0'
+
+|   |   |-- 'e' with value: 'Normal'
+
+|   |   |-- 'wb' with value: '1'
+
+|   |   |-- 'awbg' with value: '1'
+
+|   |   |-- 'wbm' with value: 'Auto'
+
+|   |   |-- 'ec' with value: '1'
+
+|   |   |-- 'aec2' with value: '1'
+
+|   |   |-- 'ael' with value: '0'
+
+|   |   |-- 'aecv' with value: '300'
+
+|   |   |-- 'gc' with value: '1'
+
+|   |   |-- 'agcg' with value: '0'
+
+|   |   |-- 'gcl' with value: '2X'
+
+|   |   |-- 'bpc' with value: '0'
+
+|   |   |-- 'wpc' with value: '1'
+
+|   |   |-- 'rg' with value: '1'
+
+|   |   |-- 'lenc' with value: '1'
+
+|   |   |-- 'hm' with value: '0'
+
+|   |   |-- 'vm' with value: '0'
+
+|   |   |-- 'dcw' with value: '1'
+
+|   |   \-- 'cb' with value: '0'
+
+|   \-- [io]
+
+|       \-- 'li' with value: '0'
+
+\-- [hidden]
+
+[   656][V][main.cpp:286] initialize_camera(): initialize_camera
+
+[   656][I][main.cpp:287] initialize_camera(): Camera config: AI THINKER
+
+[   662][I][main.cpp:293] initialize_camera(): Frame size: SVGA (800x600)
+
+[   668][I][main.cpp:295] initialize_camera(): JPEG quality: 50
+
+[   674][I][main.cpp:296] initialize_camera(): Frame duration: 10 ms
+
+[   680][I][main.cpp:300] initialize_camera(): Enable PSRAM: 1
+
+[   686][I][main.cpp:301] initialize_camera(): Frame buffers: 1
+
+[   691][I][main.cpp:307] initialize_camera(): PSRAM enabled!
+
+[   926][V][esp32-hal-ledc.c:231] analogWrite(): GPIO 4 - Using Channel 15, Value = 0
+
+State changing from: 0 to 2
+
+[   945][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 0 - WIFI_READY
+
+Setting up AP: ESP32CAM-RTSP
+
+Use password: <hidden>
+
+[  1036][V][WiFiGeneric.cpp:392] _arduino_event_cb(): AP Started
+
+[  1038][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 10 - AP_START
+
+AP IP address: 192.168.4.1
+
+[  1606][V][WiFiGeneric.cpp:395] _arduino_event_cb(): AP Stopped
+
+[  1607][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 11 - AP_STOP
+
+[  1607][V][WiFiGeneric.cpp:392] _arduino_event_cb(): AP Started
+
+[  1614][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 10 - AP_START
+
+AP timeout (ms): 10000
+
+State changed from: 0 to 2
+
+State changing from: 2 to 3
+
+[ 11636][V][WiFiGeneric.cpp:395] _arduino_event_cb(): AP Stopped
+
+[ 11636][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 11 - AP_STOP
+
+[ 11640][V][WiFiGeneric.cpp:392] _arduino_event_cb(): AP Started
+
+[ 11643][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 10 - AP_START
+
+Co (23540) wifi_init_default: esp_wifi_get_mac failed with 12289
+
+nnecting to [MITLAB703[ 11656][V][WiFiGeneric.cpp:395] _arduino_event_cb(): AP Stopped
+
+] (password is hidden)[ 11666][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 11 - AP_STOP
+
+
+
+WiFi timeout (ms): 30000
+
+[ 11699][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 0 - WIFI_READY
+
+[ 11703][V][WiFiGeneric.cpp:340] _arduino_event_cb(): STA Started
+
+[ 11705][V][WiFiGeneric.cpp:97] set_esp_interface_ip(): Configuring Station static IP: 0.0.0.0, MASK: 0.0.0.0, GW: 0.0.0.0
+
+[ 11705][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 2 - STA_START
+
+State changed from: 2 to 3
+
+[ 11875][V][WiFiGeneric.cpp:355] _arduino_event_cb(): STA Connected: SSID: MITLAB703, BSSID: 40:ee:15:c8:8e:1c, Channel: 1, Auth: WPA2_PSK
+
+[ 11876][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 4 - STA_CONNECTED
+
+[ 11893][V][WiFiGeneric.cpp:369] _arduino_event_cb(): STA Got New IP:192.168.111.14
+
+[ 11894][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 7 - STA_GOT_IP
+
+[ 11898][D][WiFiGeneric.cpp:1098] _eventCallback(): STA IP: 192.168.111.14, MASK: 255.255.255.0, GW: 192.168.111.1
+
+WiFi connected
+
+IP address: 192.168.111.14
+
+State changing from: 3 to 4
+
+[ 15021][W][ESPmDNS.cpp:222] queryService(): No results found!
+
+Active mDNS services: 0 
+Accepting connection
+
+[ 15024][V][main.cpp:362] on_connected(): on_connected
+
+[ 15038][I][ArduinoOTA.cpp:141] begin(): OTA server at: esp32-a4e57cd3b8a0.local:3232
+
+[ 15039][V][main.cpp:353] start_rtsp_server(): start_rtsp_server
+
+[ 15041][V][WiFiServer.h:42] WiFiServer(): WiFiServer::WiFiServer(port=554, ...)
+
+[ 15048][I][rtsp_server.cpp:9] rtsp_server(): Starting RTSP server
+
+State changed from: 3 to 4
+
+[ 16173][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[ 16174][V][Parsing.cpp:122] _parseRequest(): method: GET url: / search: 
+
+[ 16176][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[ 16182][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.111.14
+
+[ 16188][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[ 16194][V][Parsing.cpp:227] _parseRequest(): headerValue: keep-alive
+
+[ 16201][V][Parsing.cpp:226] _parseRequest(): headerName: Cache-Control
+
+[ 16207][V][Parsing.cpp:227] _parseRequest(): headerValue: max-age=0
+
+[ 16213][V][Parsing.cpp:226] _parseRequest(): headerName: Authorization
+
+[ 16219][V][Parsing.cpp:227] _parseRequest(): headerValue: Basic YWRtaW46TWl0bGFiNzAzLTI=
+
+[ 16227][V][Parsing.cpp:226] _parseRequest(): headerName: Upgrade-Insecure-Requests
+
+[ 16235][V][Parsing.cpp:227] _parseRequest(): headerValue: 1
+
+[ 16241][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[ 16246][V][Parsing.cpp:227] _parseRequest(): headerValue: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+
+[ 16263][V][Parsing.cpp:226] _parseRequest(): headerName: Accept
+
+[ 16268][V][Parsing.cpp:227] _parseRequest(): headerValue: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+
+[ 16285][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[ 16291][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip, deflate
+
+[ 16297][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Language
+
+[ 16304][V][Parsing.cpp:227] _parseRequest(): headerValue: en-US,en;q=0.9
+
+[ 16310][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[ 16315][V][Parsing.cpp:237] _parseRequest(): Request: /
+
+[ 16320][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[ 16326][V][main.cpp:88] handle_root(): Handle root
+
+[ 19128][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[ 21799][V][Parsing.cpp:122] _parseRequest(): method: GET url: /stream search: 
+
+[ 21799][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[ 21801][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.111.14
+
+[ 21807][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[ 21813][V][Parsing.cpp:227] _parseRequest(): headerValue: keep-alive
+
+[ 21820][V][Parsing.cpp:226] _parseRequest(): headerName: Authorization
+
+[ 21826][V][Parsing.cpp:227] _parseRequest(): headerValue: Basic YWRtaW46TWl0bGFiNzAzLTI=
+
+[ 21834][V][Parsing.cpp:226] _parseRequest(): headerName: Upgrade-Insecure-Requests
+
+[ 21841][V][Parsing.cpp:227] _parseRequest(): headerValue: 1
+
+[ 21847][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[ 21852][V][Parsing.cpp:227] _parseRequest(): headerValue: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+
+[ 21869][V][Parsing.cpp:226] _parseRequest(): headerName: Accept
+
+[ 21875][V][Parsing.cpp:227] _parseRequest(): headerValue: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+
+[ 21891][V][Parsing.cpp:226] _parseRequest(): headerName: Referer
+
+[ 21896][V][Parsing.cpp:227] _parseRequest(): headerValue: http://192.168.111.14/
+
+[ 21904][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[ 21910][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip, deflate
+
+[ 21917][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Language
+
+[ 21923][V][Parsing.cpp:227] _parseRequest(): headerValue: en-US,en;q=0.9
+
+[ 21930][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[ 21935][V][Parsing.cpp:237] _parseRequest(): Request: /stream
+
+[ 21940][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[ 21946][V][main.cpp:231] handle_stream(): handle_stream
+
+[ 21950][V][main.cpp:238] handle_stream(): starting streaming
+
+[ 82096][E][WiFiClient.cpp:422] write(): fail on fd 52, errno: 104, "Connection reset by peer"
+
+[ 82096][V][main.cpp:253] handle_stream(): client disconnected
+
+[ 82099][V][main.cpp:255] handle_stream(): stopped streaming
+
+[ 82105][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+
+
+Core  1 register dump:
+
+PC      : 0x400e6443  PS      : 0x00060930  A0      : 0x80166098  A1      : 0x3ffb2160  
+
+A2      : 0x00000000  A3      : 0x3ffe1b2c  A4      : 0x00000000  A5      : 0x00000008  
+
+A6      : 0x00000000  A7      : 0x3ffc71b8  A8      : 0x800e6440  A9      : 0x3ffb2140  
+
+A10     : 0x3ffe3b74  A11     : 0x3ffe3df4  A12     : 0x0000180c  A13     : 0x00000001  
+
+A14     : 0x00000004  A15     : 0x3ffb65a0  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+
+EXCVADDR: 0x00000008  LBEG    : 0x4008b2fc  LEND    : 0x4008b312  LCOUNT  : 0xffffffff  
+
+
+
+
+
+Backtrace: 0x400e6440:0x3ffb2160 0x40166095:0x3ffb2180 0x400e78a2:0x3ffb21a0 0x400e79fb:0x3ffb21e0 0x400e7621:0x3ffb2230 0x400e765c:0x3ffb2250 0x400d6e02:0x3ffb2270 0x400eafa1:0x3ffb2290
+
+
+
+
+
+
+
+
+
+ELF file SHA256: c0c9a7916f368899
+
+
+
+Rebooting...
+
+ets Jun  8 2016 00:22:57
+
+
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+
+configsip: 0, SPIWP:0xee
+
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+
+mode:DIO, clock div:2
+
+load:0x3fff0030,len:1184
+
+load:0x40078000,len:13192
+
+load:0x40080400,len:3028
+
+entry 0x400805e4
+
+[     4][V][WiFiServer.h:42] WiFiServer(): WiFiServer::WiFiServer(port=80, ...)
+
+[     4][V][WebServer.cpp:87] WebServer(): WebServer::Webserver(port=80)
+
+[    33][D][esp32-hal-cpu.c:244] setCpuFrequencyMhz(): PLL: 480 / 2 = 240 Mhz, APB: 80000000 Hz
+
+[   481][I][esp32-hal-psram.c:96] psramInit(): PSRAM enabled
+
+[   507][V][[   508][I][main.cpp:400] setup(): CPU Freq: 240 Mhz
+
+[   508][I][main.cpp:401] setup(): Free heap: 248600 bytes
+
+[   508][I][main.cpp:402] setup(): SDK version: v4.4.4
+
+[   512][I][main.cpp:403] setup(): Starting ESP32CAM-RTSP...
+
+[   517][V][main.cpp:408] setup(): PSRAM found and initialized
+
+Config version: 1.5
+
+Config size: 455
+
+Loading configurations
+
+[iwcAll]
+
+|-- [iwcSys]
+
+|   |-- 'iwcThingName' with value: 'ESP32CAM-RTSP'
+
+|   |-- 'iwcApPassword' with value: <hidden>
+
+|   |-- [iwcWifi0]
+
+|   |   |-- 'iwcWifiSsid' with value: 'MITLAB703'
+
+|   |   \-- 'iwcWifiPassword' with value: <hidden>
+
+|   \-- 'iwcApTimeout' with value: '10'
+
+|-- [iwcCustom]
+
+|   |-- [board]
+
+|   |   \-- 'bt' with value: 'AI THINKER'
+
+|   |-- [camera]
+
+|   |   |-- 'fd' with value: '10'
+
+|   |   |-- 'fs' with value: 'SVGA (800x600)'
+
+|   |   |-- 'q' with value: '50'
+
+|   |   |-- 'eps' with value: '1'
+
+|   |   |-- 'fb' with value: '1'
+
+|   |   |-- 'b' with value: '0'
+
+|   |   |-- 'c' with value: '0'
+
+|   |   |-- 's' with value: '0'
+
+|   |   |-- 'e' with value: 'Normal'
+
+|   |   |-- 'wb' with value: '1'
+
+|   |   |-- 'awbg' with value: '1'
+
+|   |   |-- 'wbm' with value: 'Auto'
+
+|   |   |-- 'ec' with value: '1'
+
+|   |   |-- 'aec2' with value: '1'
+
+|   |   |-- 'ael' with value: '0'
+
+|   |   |-- 'aecv' with value: '300'
+
+|   |   |-- 'gc' with value: '1'
+
+|   |   |-- 'agcg' with value: '0'
+
+|   |   |-- 'gcl' with value: '2X'
+
+|   |   |-- 'bpc' with value: '0'
+
+|   |   |-- 'wpc' with value: '1'
+
+|   |   |-- 'rg' with value: '1'
+
+|   |   |-- 'lenc' with value: '1'
+
+|   |   |-- 'hm' with value: '0'
+
+|   |   |-- 'vm' with value: '0'
+
+|   |   |-- 'dcw' with value: '1'
+
+|   |   \-- 'cb' with value: '0'
+
+|   \-- [io]
+
+|       \-- 'li' with value: '0'
+
+\-- [hidden]
+
+[   656][V][main.cpp:286] initialize_camera(): initialize_camera
+
+[   656][I][main.cpp:287] initialize_camera(): Camera config: AI THINKER
+
+[   662][I][main.cpp:293] initialize_camera(): Frame size: SVGA (800x600)
+
+[   668][I][main.cpp:295] initialize_camera(): JPEG quality: 50
+
+[   674][I][main.cpp:296] initialize_camera(): Frame duration: 10 ms
+
+[   680][I][main.cpp:300] initialize_camera(): Enable PSRAM: 1
+
+[   686][I][main.cpp:301] initialize_camera(): Frame buffers: 1
+
+[   691][I][main.cpp:307] initialize_camera(): PSRAM enabled!
+
+[   925][V][esp32-hal-ledc.c:231] analogWrite(): GPIO 4 - Using Channel 15, Value = 0
+
+State changing from: 0 to 2
+
+[   945][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 0 - WIFI_READY
+
+Setting up AP: ESP32CAM-RTSP
+
+Use password: <hidden>
+
+[  1037][V][WiFiGeneric.cpp:392] _arduino_event_cb(): AP Started
+
+[  1038][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 10 - AP_START
+
+AP IP address: 192.168.4.1
+
+[  1607][V][WiFiGeneric.cpp:395] _arduino_event_cb(): AP Stopped
+
+[  1608][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 11 - AP_STOP
+
+[  1608][V][WiFiGeneric.cpp:392] _arduino_event_cb(): AP Started
+
+[  1615][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 10 - AP_START
+
+AP timeout (ms): 10000
+
+State changed from: 0 to 2
+
+State changing from: 2 to 3
+
+[ 11636][V][WiFiGeneric.cpp:395] _arduino_event_cb(): AP Stopped
+
+[ 11637][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 11 - AP_STOP
+
+[ 11641][V][WiFiGeneric.cpp:392] _arduino_event_cb(): AP Started
+
+[ 11644][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 10 - AP_START
+
+CE (23542) wifi_init_default: esp_wifi_get_mac failed with 12289
+
+onnecting to [MITLAB703[ 11657][V][WiFiGeneric.cpp:395] _arduino_event_cb(): AP Stopped
+
+] (password is hidden)[ 11667][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 11 - AP_STOP
+
+
+
+WiFi timeout (ms): 30000
+
+[ 11700][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 0 - WIFI_READY
+
+[ 11705][V][WiFiGeneric.cpp:340] _arduino_event_cb(): STA Started
+
+[ 11707][V][WiFiGeneric.cpp:97] set_esp_interface_ip(): Configuring Station static IP: 0.0.0.0, MASK: 0.0.0.0, GW: 0.0.0.0
+
+[ 11707][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 2 - STA_START
+
+State changed from: 2 to 3
+
+[ 11880][V][WiFiGeneric.cpp:355] _arduino_event_cb(): STA Connected: SSID: MITLAB703, BSSID: 40:ee:15:c8:8e:1c, Channel: 1, Auth: WPA2_PSK
+
+[ 11881][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 4 - STA_CONNECTED
+
+[ 11907][V][WiFiGeneric.cpp:369] _arduino_event_cb(): STA Got New IP:192.168.111.14
+
+[ 11908][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 7 - STA_GOT_IP
+
+[ 11911][D][WiFiGeneric.cpp:1098] _eventCallback(): STA IP: 192.168.111.14, MASK: 255.255.255., GW: 192.168.111.1
+
+WiFi connected
+
+IP address: 192.168.111.14
+
+State changing from: 3 to 4
+
+[ 15034][W][ESPmDNS.cpp:222] queryService(): No results found!
+
+Active mDNS services: 0 
+Accepting connection
+
+[ 15035][V][main.cpp:362] on_connected(): on_connected
+
+[ 15051][I][ArduinoOTA.cpp:141] begin(): OTA server at: esp32-a4e57cd3b8a0.local:3232
+
+[ 15051][V][main.cpp:353] start_rtsp_server(): start_rtsp_server
+
+[ 15053][V][WiFiServer.h:42] WiFiServer(): WiFiServer::WiFiServer(port=554, ...)
+
+[ 15060][I][rtsp_server.cpp:9] rtsp_server(): Starting RTSP server
+
+State changed from: 3 to 4
+
+Creating TSP streamer
+
+Created streamer width=800, height=600
+
+Creating RTSP session
+
+RTSP received OPTIONS
+
+RTSP received DESCRIBE
+
+RTSP received SETUP
+
+RTSP received PLAY
+
+[ 59991][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[ 60061][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[ 60062][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[ 60067][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[ 60084][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[ 71343][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[ 71344][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[ 71349][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[ 71358][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[ 71366][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+RTSP received TEARDOWN
+
+closing TCP socket
+
+closing UDP socket
+
+closing UDP socket
+
+Creating TSP streamer
+
+Created streamer width=800, height=600
+
+Creating RTSP session
+
+RTSP received OPTIONS
+
+RTSP received DESCRIBE
+
+RTSP received SETUP
+
+RTSP received PLAY
+
+[217530][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[217531][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[251989][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[251990][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[251995][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[252003][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[252013][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[252019][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[252110][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[252111][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[252117][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[252192][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[252193][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[252199][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[256982][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[256982][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[256987][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[256996][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[257004][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[257012][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[257020][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[257028][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[257038][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[257044][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[257189][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[257190][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[257195][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+RTSP received OPTIONS
+
+[290737][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[290738][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[290744][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[290751][E[WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[290819][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[290820][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[290825][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[290832][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[290894][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[290895][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[290900][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[290908][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[290917][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+RTSP received OPTIONS
+
+[321239][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[321242][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[321245][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[321253][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[321263][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[321315][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[321317][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[321321][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[321329][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[321338][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[321347][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[321354][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[321362][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[321370][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[324404][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[324405][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[324410][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[324417][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[324484][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[324485][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+RTSP received OPTIONS
+
+[383062][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[383064][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[416724][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[416725][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[416730][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[416889][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[416889][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[416960][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[416962][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[416966][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[416976][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+RTSP received OPTIONS
+
+[440997][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[440998][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[441002][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+RTSP received OPTIONS
+
+[509328][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[509329][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[509334][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[509342][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+RTSP received OPTIONS
+
+[597974][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[598053][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[598054][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[598059][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[598067][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[598075][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+RTSP received OPTIONS
+
+[617646][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[617647][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[617653][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[617726][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[617727][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[617732][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[617740][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[617748][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[618084][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[618085][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[618091][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[618101][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[618168][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[618169][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[618248][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[618411][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[618719][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[618722][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[618725][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[618733][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[618741][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[618750][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[618757][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[618766][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[618850][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[619011][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[619090][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[619245][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[619246][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[619253][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[619320][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[619321][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[619329][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[619337][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[619342][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[621408][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[621408][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[621480][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[621486][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[621487][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[621494][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[621502][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[621510][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[622645][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[622645][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[622650][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[622659][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[623925][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[623926][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[623931][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[629361][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[629362][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[629368][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[629375][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[629437][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[629438][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[629443][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[629451][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[629460][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[629468][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[629475][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[630365][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[630366][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[630371][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[631086][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+RTSP received OPTIONS
+
+[673262][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[673263][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[673268][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[673277][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[673284][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[673292][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[681143][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[718329][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[718330][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[718334][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[718342][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[718403][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[718404][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[718409][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[718418][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[718425][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[718434][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[718441][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+RTSP received OPTIONS
+
+[734963][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[734963][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[741276][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[741277][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[741282][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[741290][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[741299][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[751874][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[751875][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[751880][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[751950][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[751951][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[751957][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[751965][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[751973][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[752029][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[752030][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[774262][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[774263][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+RTSP received OPTIONS
+
+[802932][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[802933][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[802938][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[802946][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[802954][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[803045][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[803046][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[803054][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[803061][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[803068][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[813688][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[813689][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[813694][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+RTSP received OPTIONS
+
+[881218][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[881219][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[881225][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[881233][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+RTSP received OPTIONS
+
+RTSP received OPTIONS
+
+[971107][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[971908][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[971975][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[971976][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[971981][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[971989][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[971997][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[972005][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[972014][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[972022][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[972030][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[972038][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[972046][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[972054][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[972062][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[972072][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+RTSP received OPTIONS
+
+[1043029][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[1043030][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[1043035][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[1043045][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[1043054][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[1043118][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[1043119][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+RTSP received OPTIONS
+
+[1078022][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[1078023][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[1078028][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[1096254][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[1096254][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[1096260][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[1096268][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+RTSP received OPTIONS
+
+[1151146][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[1151147][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[1151153][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[1151160][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[1151168][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[1151178][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[1151187][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[1151276][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[1151278][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+RTSP received OPTIONS
+
+[1198095][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+RTSP received OPTIONS
+
+RTSP received OPTIONS
+
+[1305733][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[1305810][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[1308692][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[1308772][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[1308849][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[1308850][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+RTSP received OPTIONS
+
+[1403085][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[1403086][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[1403091][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[1403100][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+[1403108][E][WiFiUdp.cpp:185] endPacket(): could not send data: 12
+
+error sending udp packet
+
+RTSP received OPTIONS
+
+RTSP received OPTIONS
+
+RTSP received OPTIONS
+
+RTSP received OPTIONS
+
+RTSP received OPTIONS
+
+RTSP received TEARDOWN
+
+closing TCP socket
+
+closing UDP socket
+
+closing UDP socket
+
