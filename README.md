@@ -109,7 +109,7 @@ This will put the ESP32-CAM board in download mode.
 
 this is our product
 
-![Our Product GuardianCam ](assets/ESP32CAM IN PAKAGE.jpeg)
+![Our Product GuardianCam](assets/ESP32CAM IN PAKAGE.jpeg)
 
 ### FTDI adapter
 
