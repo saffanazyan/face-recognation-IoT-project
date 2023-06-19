@@ -1,0 +1,4711 @@
+[ 32014][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.4.1
+
+[ 32015][V][Parsing.cpp:122] _parseRequest(): method: GET url: /connecttest.txt search: 
+
+[ 32019][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[ 32025][V][Parsing.cpp:227] _parseRequest(): headerValue: Close
+
+[ 32031][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[ 32037][V][Parsing.cpp:227] _parseRequest(): headerValue: Microsoft NCSI
+
+[ 32043][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[ 32049][V][Parsing.cpp:227] _parseRequest(): headerValue: www.msftconnecttest.com
+
+[ 32056][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[ 32061][V][Parsing.cpp:237] _parseRequest(): Request: /connecttest.txt
+
+[ 32067][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[ 32073][E][WebServer.cpp:649] _handleRequest(): request handler not found
+
+Request for www.msftconnecttest.com redirected to 192.168.4.1:80
+
+[ 32090][W][WebServer.cpp:436] send(): content length is zero
+
+[ 32366][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.4.1
+
+[ 32367][V][Parsing.cpp:122] _parseRequest(): method: GET url: /connecttest.txt search: 
+
+[ 32371][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[ 32377][V][Parsing.cpp:227] _parseRequest(): headerValue: Close
+
+[ 32383][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[ 32389][V][Parsing.cpp:227] _parseRequest(): headerValue: Microsoft NCSI
+
+[ 32395][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[ 32401][V][Parsing.cpp:227] _parseRequest(): headerValue: www.msftconnecttest.com
+
+[ 32408][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[ 32413][V][Parsing.cpp:237] _parseRequest(): Request: /connecttest.txt
+
+[ 32419][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[ 32425][E][WebServer.cpp:649] _handleRequest(): request handler not found
+
+Request for www.msftconnecttest.com redirected to 192.168.4.1:80
+
+[ 32442][W][WebServer.cpp:436] send(): content length is zero
+
+[ 61792][V][WiFiGeneric.cpp:407] _arduino_event_cb(): AP Station Connected: MAC: aa:de:65:2d:84:b5, AID: 2
+
+[ 61792][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 12 - AP_STACONNECTED
+
+[ 62191][V][WiFiGeneric.cpp:421] _arduino_event_cb(): AP Station IP Assigned:192.168.4.3
+
+[ 62191][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 14 - AP_STAIPASSIGNED
+
+[ 62482][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.4.1
+
+[ 62483][V][Parsing.cpp:122] _parseRequest(): method: GET url: /connecttest.txt search: 
+
+[ 62487][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[ 62493][V][Parsing.cpp:227] _parseRequest(): headerValue: Close
+
+[ 62499][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[ 62505][V][Parsing.cpp:227] _parseRequest(): headerValue: Microsoft NCSI
+
+[ 62511][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[ 62517][V][Parsing.cpp:227] _parseRequest(): headerValue: www.msftconnecttest.com
+
+[ 62524][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[ 62529][V][Parsing.cpp:237] _parseRequest(): Request: /connecttest.txt
+
+[ 62535][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[ 62541][E][WebServer.cpp:649] _handleRequest(): request handler not found
+
+Request for www.msftconnecttest.com redirected to 192.168.4.1:80
+
+[ 62558][W][WebServer.cpp:436] send(): content length is zero
+
+[ 62831][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.4.1
+
+[ 62832][V][Parsing.cpp:122] _parseRequest(): method: GET url: /connecttest.txt search: 
+
+[ 62836][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[ 62842][V][Parsing.cpp:227] _parseRequest(): headerValue: Close
+
+[ 62848][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[ 62854][V][Parsing.cpp:227] _parseRequest(): headerValue: Microsoft NCSI
+
+[ 62860][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[ 62866][V][Parsing.cpp:227] _parseRequest(): headerValue: www.msftconnecttest.com
+
+[ 62873][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[ 62878][V][Parsing.cpp:237] _parseRequest(): Request: /connecttest.txt
+
+[ 62884][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[ 62890][E][WebServer.cpp:649] _handleRequest(): request handler not found
+
+Request for www.msftconnecttest.com redirected to 192.168.4.1:80
+
+[ 62907][W][WebServer.cpp:436] send(): content length is zero
+
+[ 63122][V][WiFiGeneric.cpp:421] _arduino_event_cb(): AP Station IP Assigned:192.168.4.3
+
+[ 63123][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 14 - AP_STAIPASSIGNED
+
+[ 65411][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.4.1
+
+[ 65412][V][Parsing.cpp:122] _parseRequest(): method: GET url: /generate_204 search: 
+
+[ 65416][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[ 65422][V][Parsing.cpp:227] _parseRequest(): headerValue: Dalvik/2.1.0 (Linux; U; Android 10; SM-G960F Build/QP1A.190711.020)
+
+[ 65433][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[ 65438][V][Parsing.cpp:227] _parseRequest(): headerValue: connectivitycheck.gstatic.com
+
+[ 65446][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[ 65452][V][Parsing.cpp:227] _parseRequest(): headerValue: Keep-Alive
+
+[ 65458][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[ 65465][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip
+
+[ 65470][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[ 65475][V][Parsing.cpp:237] _parseRequest(): Request: /generate_204
+
+[ 65481][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[ 65487][E][WebServer.cpp:649] _handleRequest(): request handler not found
+
+Request for connectivitycheck.gstatic.com redirected to 192.168.4.1:80
+
+[ 65504][W][WebServer.cpp:436] send(): content length is zero
+
+[ 65522][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.4.1
+
+[ 65523][V][Parsing.cpp:122] _parseRequest(): method: GET url: /generate_204 search: 
+
+[ 65527][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[ 65533][V][Parsing.cpp:227] _parseRequest(): headerValue: Dalvik/2.1.0 (Linux; U; Android 10; SM-G960F Build/QP1A.190711.020)
+
+[ 65544][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[ 65550][V][Parsing.cpp:227] _parseRequest(): headerValue: connectivitycheck.gstatic.com
+
+[ 65557][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[ 65563][V][Parsing.cpp:227] _parseRequest(): headerValue: Keep-Alive
+
+[ 65570][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[ 65576][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip
+
+[ 65582][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[ 65587][V][Parsing.cpp:237] _parseRequest(): Request: /generate_204
+
+[ 65593][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[ 65598][E][WebServer.cpp:649] _handleRequest(): request handler not found
+
+Request for connectivitycheck.gstatic.com redirected to 192.168.4.1:80
+
+[ 65616][W][WebServer.cpp:436] send(): content length is zero
+
+[ 65640][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.4.1
+
+[ 65640][V][Parsing.cpp:122] _parseRequest(): method: GET url: / search: 
+
+[ 65643][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[ 65649][V][Parsing.cpp:227] _parseRequest(): headerValue: Dalvik/2.1.0 (Linux; U; Android 10; SM-G960F Build/QP1A.190711.020)
+
+[ 65660][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[ 65666][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.4.1
+
+[ 65672][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[ 65678][V][Parsing.cpp:227] _parseRequest(): headerValue: Keep-Alive
+
+[ 65684][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[ 65691][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip
+
+[ 65696][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[ 65701][V][Parsing.cpp:237] _parseRequest(): Request: /
+
+[ 65706][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[ 65712][V][main.cpp:88] handle_root(): Handle root
+
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+
+
+Core  1 register dump:
+
+PC      : 0x40094bfb  PS      : 0x00060d30  A0      : 0x80094e50  A1      : 0x3ffb1ac0  
+
+A2      : 0xffffffff  A3      : 0x00000000  A4      : 0x0000001c  A5      : 0x3ffb1b40  
+
+A6      : 0x00000000  A7      : 0x00000001  A8      : 0xffffffff  A9      : 0x00000009  
+
+A10     : 0x00000000  A11     : 0x82398ce2  A12     : 0x82398ce2  A13     : 0x3ffc6f98  
+
+A14     : 0x00060d20  A15     : 0x00000001  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+
+EXCVADDR: 0x00000013  LBEG    : 0x4008b464  LEND    : 0x4008b46f  LCOUNT  : 0x00000000  
+
+
+
+
+
+Backtrace: 0x40094bf8:0x3ffb1ac0 0x40094e4d:0x3ffb1ae0 0x400950cf:0x3ffb1b00 0x4011522e:0x3ffb1b20 0x400e7b26:0x3ffb1b60 0x400d7557:0x3ffb1ba0 0x4017a649:0x3ffb20d0 0x400e0a62:0x3ffb20f0 0x400e0b09:0x3ffb2110 0x400e0bef:0x3ffb2150 0x400e0e2a:0x3ffb21c0 0x4017ae01:0x3ffb2230 0x400e5981:0x3ffb2250 0x400d6dee:0x3ffb2270 0x400eafa1:0x3ffb2290
+
+
+
+
+
+
+
+
+
+ELF file SHA256: c12a36cef630ecfb
+
+
+
+Rebooting...
+
+ets Jun  8 2016 00:22:57
+
+
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+
+configsip: 0, SPIWP:0xee
+
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+
+mode:DIO, clock div:2
+
+load:0x3fff0030,len:1184
+
+load:0x40078000,len:13192
+
+load:0x40080400,len:3028
+
+entry 0x400805e4
+
+[     4][V][WiFiServer.h:42] WiFiServer(): WiFiServer::WiFiServer(port=80, ...)
+
+[     4][V][WebServer.cpp:87] WebServer(): WebServer::Webserver(port=80)
+
+[    31][D][esp32-hal-cpu.c:244] setCpuFrequencyMhz(): PLL: 480 / 2 = 240 Mhz, APB: 80000000 Hz
+
+[   480][I][esp32-hal-psram.c:96] psramInit(): PSRAM enabled
+
+[   505][V][[   507][I][main.cpp:400] setup(): CPU Freq: 240 Mhz
+
+[   507][I][main.cpp:401] setup(): Free heap: 248600 bytes
+
+[   507][I][main.cpp:402] setup(): SDK version: v4.4.4
+
+[   510][I][main.cpp:403] setup(): Starting ESP32CAM-RTSP...
+
+[   516][V][main.cpp:408] setup(): PSRAM found and initialized
+
+Config version: 1.5
+
+Config size: 455
+
+Loading configurations
+
+[iwcAll]
+
+|-- [iwcSys]
+
+|   |-- 'iwcThingName' with value: 'ESP32CAM-a0b8d37ce5a4'
+
+|   |-- 'iwcApPassword' with value: <hidden>
+
+|   |-- [iwcWifi0]
+
+|   |   |-- 'iwcWifiSsid' with value: 'MITLAB703'
+
+|   |   \-- 'iwcWifiPassword' with value: <hidden>
+
+|   \-- 'iwcApTimeout' with value: '30'
+
+|-- [iwcCustom]
+
+|   |-- [board]
+
+|   |   \-- 'bt' with value: 'ESP32CAM'
+
+|   |-- [camera]
+
+|   |   |-- 'fd' with value: '100'
+
+|   |   |-- 'fs' with value: 'QQVGA (160x120)'
+
+|   |   |-- 'q' with value: '12'
+
+|   |   |-- 'eps' with value: '0'
+
+|   |   |-- 'fb' with value: '1'
+
+|   |   |-- 'b' with value: '0'
+
+|   |   |-- 'c' with value: '0'
+
+|   |   |-- 's' with value: '0'
+
+|   |   |-- 'e' with value: 'Normal'
+
+|   |   |-- 'wb' with value: '1'
+
+|   |   |-- 'awbg' with value: '1'
+
+|   |   |-- 'wbm' with value: 'Auto'
+
+|   |   |-- 'ec' with value: '1'
+
+|   |   |-- 'aec2' with value: '1'
+
+|   |   |-- 'ael' with value: '0'
+
+|   |   |-- 'aecv' with value: '300'
+
+|   |   |-- 'gc' with value: '1'
+
+|   |   |-- 'agcg' with value: '0'
+
+|   |   |-- 'gcl' with value: '2X'
+
+|   |   |-- 'bpc' with value: '0'
+
+|   |   |-- 'wpc' with value: '1'
+
+|   |   |-- 'rg' with value: '1'
+
+|   |   |-- 'lenc' with value: '1'
+
+|   |   |-- 'hm' with value: '0'
+
+|   |   |-- 'vm' with value: '0'
+
+|   |   |-- 'dcw' with value: '1'
+
+|   |   \-- 'cb' with value: '0'
+
+|   \-- [io]
+
+|       \-- 'li' with value: '0'
+
+\-- [hidden]
+
+[   654][V][main.cpp:286] initialize_camera(): initialize_camera
+
+[   654][I][main.cpp:287] initialize_camera(): Camera config: ESP32CAM
+
+[   661][I][main.cpp:293] initialize_camera(): Frame size: QQVGA (160x120)
+
+[   667][I][main.cpp:295] initialize_camera(): JPEG quality: 12
+
+[   673][I][main.cpp:296] initialize_camera(): Frame duration: 100 ms
+
+[   679][I][main.cpp:300] initialize_camera(): Enable PSRAM: 0
+
+[   685][I][main.cpp:301] initialize_camera(): Frame buffers: 1
+
+[   690][I][main.cpp:312] initialize_camera(): PSRAM disabled
+
+E (700) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+
+[   730][E][main.cpp:456] setup(): Failed to initialize camera: 0x105. Type: ESP32CAM, frame size: QQVGA (160x120), frame rate: 100 ms, jpeg quality: 12
+
+[   739][V][esp32-hal-ledc.c:231] analogWrite(): GPIO 4 - Using Channel 15, Value = 0
+
+State changing from: 0 to 2
+
+[   774][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 0 - WIFI_READY
+
+Setting up AP: ESP32CAM-a0b8d37ce5a4
+
+Use password: <hidden>
+
+AP IP address: [   863][V][WiFiGeneric.cpp:392] _arduino_event_cb(): AP Started
+
+192[   864][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 10 - AP_START
+
+.168.4.1
+
+AP timeout (ms): 30000
+
+State changed from: 0 to 2
+
+Connection to AP.
+
+[  3518][V][WiFiGeneric.cpp:407] _arduino_event_cb(): AP Station Connected: MAC: aa:de:65:2d:84:b5, AID: 1
+
+[  3519][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 12 - AP_STACONNECTED
+
+[  3989][V][WiFiGeneric.cpp:421] _arduino_event_cb(): AP Station IP Assigned:192.168.4.2
+
+[  3989][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 14 - AP_STAIPASSIGNED
+
+[  6352][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.4.1
+
+[  6353][V][Parsing.cpp:122] _parseRequest(): method: GET url: /generate_204 search: 
+
+[  6357][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[  6363][V][Parsing.cpp:227] _parseRequest(): headerValue: Dalvik/2.1.0 (Linux; U; Android 10; SM-G960F Build/QP1A.190711.020)
+
+[  6374][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[  6380][V][Parsing.cpp:227] _parseRequest(): headerValue: connectivitycheck.gstatic.com
+
+[  6388][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[  6393][V][Parsing.cpp:227] _parseRequest(): headerValue: Keep-Alive
+
+[  6400][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[  6406][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip
+
+[  6412][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[  6417][V][Parsing.cpp:237] _parseRequest(): Request: /generate_204
+
+[  6423][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[  6428][E][WebServer.cpp:649] _handleRequest(): request handler not found
+
+Request for connectivitycheck.gstatic.com redirected to 192.168.4.1:80
+
+[  6446][W][WebServer.cpp:436] send(): content length is zero
+
+[  6478][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.4.1
+
+[  6479][V][Parsing.cpp:122] _parseRequest(): method: GET url: /generate_204 search: 
+
+[  6483][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[  6489][V][Parsing.cpp:227] _parseRequest(): headerValue: Dalvik/2.1.0 (Linux; U; Android 10; SM-G960F Build/QP1A.190711.020)
+
+[  6500][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[  6506][V][Parsing.cpp:227] _parseRequest(): headerValue: connectivitycheck.gstatic.com
+
+[  6514][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[  6520][V][Parsing.cpp:227] _parseRequest(): headerValue: Keep-Alive
+
+[  6526][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[  6532][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip
+
+[  6538][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[  6543][V][Parsing.cpp:237] _parseRequest(): Request: /generate_204
+
+[  6549][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[  6554][E][WebServer.cpp:649] _handleRequest(): request handler not found
+
+Request for connectivitycheck.gstatic.com redirected to 192.168.4.1:80
+
+[  6572][W][WebServer.cpp:436] send(): content length is zero
+
+[  6596][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.4.1
+
+[  6597][V][Parsing.cpp:122] _parseRequest(): method: GET url: / search: 
+
+[  6600][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[  6605][V][Parsing.cpp:227] _parseRequest(): headerValue: Dalvik/2.1.0 (Linux; U; Android 10; SM-G960F Build/QP1A.190711.020)
+
+[  6617][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[  6622][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.4.1
+
+[  6628][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[  6634][V][Parsing.cpp:227] _parseRequest(): headerValue: Keep-Alive
+
+[  6641][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[  6647][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip
+
+[  6653][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[  6658][V][Parsing.cpp:237] _parseRequest(): Request: /
+
+[  6663][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[  6668][V][main.cpp:88] handle_root(): Handle root
+
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+
+
+Core  1 register dump:
+
+PC      : 0x40094bfb  PS      : 0x00060d30  A0      : 0x80094e50  A1      : 0x3ffb1ac0  
+
+A2      : 0xffffffff  A3      : 0x00000000  A4      : 0x0000001c  A5      : 0x3ffb1b40  
+
+A6      : 0x00000000  A7      : 0x00000001  A8      : 0xffffffff  A9      : 0x00000009  
+
+A10     : 0x00000000  A11     : 0xe7918f6a  A12     : 0xe7918f6a  A13     : 0x3ffc6f98  
+
+A14     : 0x00060d20  A15     : 0x00000001  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+
+EXCVADDR: 0x00000013  LBEG    : 0x4008b464  LEND    : 0x4008b46f  LCOUNT  : 0x00000000  
+
+
+
+
+
+Backtrace: 0x40094bf8:0x3ffb1ac0 0x40094e4d:0x3ffb1ae0 0x400950cf:0x3ffb1b00 0x4011522e:0x3ffb1b20 0x400e7b26:0x3ffb1b60 0x400d7557:0x3ffb1ba0 0x4017a649:0x3ffb20d0 0x400e0a62:0x3ffb20f0 0x400e0b09:0x3ffb2110 0x400e0bef:0x3ffb2150 0x400e0e2a:0x3ffb21c0 0x4017ae01:0x3ffb2230 0x400e5981:0x3ffb2250 0x400d6dee:0x3ffb2270 0x400eafa1:0x3ffb2290
+
+
+
+
+
+
+
+
+
+ELF file SHA256: c12a36cef630ecfb
+
+
+
+Rebooting...
+
+ets Jun  8 2016 00:22:57
+
+
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+
+configsip: 0, SPIWP:0xee
+
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+
+mode:DIO, clock div:2
+
+load:0x3fff0030,len:1184
+
+load:0x40078000,len:13192
+
+load:0x40080400,len:3028
+
+entry 0x400805e4
+
+[     4][V][WiFiServer.h:42] WiFiServer(): WiFiServer::WiFiServer(port=80, ...)
+
+[     4][V][WebServer.cpp:87] WebServer(): WebServer::Webserver(port=80)
+
+[    31][D][esp32-hal-cpu.c:244] setCpuFrequencyMhz(): PLL: 480 / 2 = 240 Mhz, APB: 80000000 Hz
+
+[   480][I][esp32-hal-psram.c:96] psramInit(): PSRAM enabled
+
+[   505][V][[   507][I][main.cpp:400] setup(): CPU Freq: 240 Mhz
+
+[   507][I][main.cpp:401] setup(): Free heap: 248600 bytes
+
+[   507][I][main.cpp:402] setup(): SDK version: v4.4.4
+
+[   510][I][main.cpp:403] setup(): Starting ESP32CAM-RTSP...
+
+[   516][V][main.cpp:408] setup(): PSRAM found and initialized
+
+Config version: 1.5
+
+Config size: 455
+
+Loading configurations
+
+[iwcAll]
+
+|-- [iwcSys]
+
+|   |-- 'iwcThingName' with value: 'ESP32CAM-a0b8d37ce5a4'
+
+|   |-- 'iwcApPassword' with value: <hidden>
+
+|   |-- [iwcWifi0]
+
+|   |   |-- 'iwcWifiSsid' with value: 'MITLAB703'
+
+|   |   \-- 'iwcWifiPassword' with value: <hidden>
+
+|   \-- 'iwcApTimeout' with value: '30'
+
+|-- [iwcCustom]
+
+|   |-- [board]
+
+|   |   \-- 'bt' with value: 'ESP32CAM'
+
+|   |-- [camera]
+
+|   |   |-- 'fd' with value: '100'
+
+|   |   |-- 'fs' with value: 'QQVGA (160x120)'
+
+|   |   |-- 'q' with value: '12'
+
+|   |   |-- 'eps' with value: '0'
+
+|   |   |-- 'fb' with value: '1'
+
+|   |   |-- 'b' with value: '0'
+
+|   |   |-- 'c' with value: '0'
+
+|   |   |-- 's' with value: '0'
+
+|   |   |-- 'e' with value: 'Normal'
+
+|   |   |-- 'wb' with value: '1'
+
+|   |   |-- 'awbg' with value: '1'
+
+|   |   |-- 'wbm' with value: 'Auto'
+
+|   |   |-- 'ec' with value: '1'
+
+|   |   |-- 'aec2' with value: '1'
+
+|   |   |-- 'ael' with value: '0'
+
+|   |   |-- 'aecv' with value: '300'
+
+|   |   |-- 'gc' with value: '1'
+
+|   |   |-- 'agcg' with value: '0'
+
+|   |   |-- 'gcl' with value: '2X'
+
+|   |   |-- 'bpc' with value: '0'
+
+|   |   |-- 'wpc' with value: '1'
+
+|   |   |-- 'rg' with value: '1'
+
+|   |   |-- 'lenc' with value: '1'
+
+|   |   |-- 'hm' with value: '0'
+
+|   |   |-- 'vm' with value: '0'
+
+|   |   |-- 'dcw' with value: '1'
+
+|   |   \-- 'cb' with value: '0'
+
+|   \-- [io]
+
+|       \-- 'li' with value: '0'
+
+\-- [hidden]
+
+[   654][V][main.cpp:286] initialize_camera(): initialize_camera
+
+[   655][I][main.cpp:287] initialize_camera(): Camera config: ESP32CAM
+
+[   661][I][main.cpp:293] initialize_camera(): Frame size: QQVGA (160x120)
+
+[   667][I][main.cpp:295] initialize_camera(): JPEG quality: 12
+
+[   673][I][main.cpp:296] initialize_camera(): Frame duration: 100 ms
+
+[   679][I][main.cpp:300] initialize_camera(): Enable PSRAM: 0
+
+[   685][I][main.cpp:301] initialize_camera(): Frame buffers: 1
+
+[   690][I][main.cpp:312] initialize_camera(): PSRAM disabled
+
+E (700) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+
+[   730][E][main.cpp:456] setup(): Failed to initialize camera: 0x105. Type: ESP32CAM, frame size: QQVGA (160x120), frame rate: 100 ms, jpeg quality: 12
+
+[   739][V][esp32-hal-ledc.c:231] analogWrite(): GPIO 4 - Using Channel 15, Value = 0
+
+State changing from: 0 to 2
+
+[   774][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 0 - WIFI_READY
+
+Setting up AP: ESP32CAM-a0b8d37ce5a4
+
+Use password: <hidden>
+
+AP IP address: 192.168.4.1
+
+[   874][V][WiFiGeneric.cpp:392] _arduino_event_cb(): AP Started
+
+[   876][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 10 - AP_START
+
+AP timeout (ms): 30000
+
+State changed from: 0 to 2
+
+Connection to AP.
+
+[  6496][V][WiFiGeneric.cpp:407] _arduino_event_cb(): AP Station Connected: MAC: aa:de:65:2d:84:b5, AID: 1
+
+[  6497][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 12 - AP_STACONNECTED
+
+[  6783][V][WiFiGeneric.cpp:421] _arduino_event_cb(): AP Station IP Assigned:192.168.4.2
+
+[  6783][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 14 - AP_STAIPASSIGNED
+
+[  7741][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.4.1
+
+[  7888][V][Parsing.cpp:122] _parseRequest(): method: POST url: /chat search: 
+
+[  7888][V][Parsing.cpp:154] _parseRequest(): headerName: Host
+
+[  7889][V][Parsing.cpp:155] _parseRequest(): headerValue: c.whatsapp.net
+
+[  7896][V][Parsing.cpp:154] _parseRequest(): headerName: User-Agent
+
+[  7902][V][Parsing.cpp:155] _parseRequest(): headerValue: Mozilla/5.0 (compatible; WAChat/1.2; +http://www.whatsapp.com/contact)
+
+[  7913][V][Parsing.cpp:154] _parseRequest(): headerName: Transfer-Encoding
+
+[  7920][V][Parsing.cpp:155] _parseRequest(): headerValue: chunked
+
+[  7926][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[  7931][V][Parsing.cpp:237] _parseRequest(): Request: /chat
+
+[  7936][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[  7942][E][WebServer.cpp:649] _handleRequest(): request handler not found
+
+Request for c.whatsapp.net redirected to 192.168.4.1:80
+
+[  7959][W][WebServer.cpp:436] send(): content length is zero
+
+[  9082][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.4.1
+
+[  9083][V][Parsing.cpp:122] _parseRequest(): method: GET url: /generate_204 search: 
+
+[  9087][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[  9093][V][Parsing.cpp:227] _parseRequest(): headerValue: Dalvik/2.1.0 (Linux; U; Android 10; SM-G960F Build/QP1A.190711.020)
+
+[  9104][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[  9110][V][Parsing.cpp:227] _parseRequest(): headerValue: connectivitycheck.gstatic.com
+
+[  9118][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[  9123][V][Parsing.cpp:227] _parseRequest(): headerValue: Keep-Alive
+
+[  9130][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[  9136][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip
+
+[  9142][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[  9147][V][Parsing.cpp:237] _parseRequest(): Request: /generate_204
+
+[  9153][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[  9158][E][WebServer.cpp:649] _handleRequest(): request handler not found
+
+Request for connectivitycheck.gstatic.com redirected to 192.168.4.1:80
+
+[  9176][W][WebServer.cpp:436] send(): content length is zero
+
+[  9199][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.4.1
+
+[  9200][V][Parsing.cpp:122] _parseRequest(): method: GET url: /generate_204 search: 
+
+[  9204][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[  9210][V][Parsing.cpp:227] _parseRequest(): headerValue: Dalvik/2.1.0 (Linux; U; Android 10; SM-G960F Build/QP1A.190711.020)
+
+[  9221][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[  9227][V][Parsing.cpp:227] _parseRequest(): headerValue: connectivitycheck.gstatic.com
+
+[  9235][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[  9240][V][Parsing.cpp:227] _parseRequest(): headerValue: Keep-Alive
+
+[  9247][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[  9253][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip
+
+[  9259][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[  9264][V][Parsing.cpp:237] _parseRequest(): Request: /generate_204
+
+[  9270][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[  9275][E][WebServer.cpp:649] _handleRequest(): request handler not found
+
+Request for connectivitycheck.gstatic.com redirected to 192.168.4.1:80
+
+[  9293][W][WebServer.cpp:436] send(): content length is zero
+
+[  9308][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.4.1
+
+[  9311][V][Parsing.cpp:122] _parseRequest(): method: GET url: / search: 
+
+[  9312][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[  9318][V][Parsing.cpp:227] _parseRequest(): headerValue: Dalvik/2.1.0 (Linux; U; Android 10; SM-G960F Build/QP1A.190711.020)
+
+[  9329][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[  9335][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.4.1
+
+[  9341][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[  9347][V][Parsing.cpp:227] _parseRequest(): headerValue: Keep-Alive
+
+[  9353][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[  9360][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip
+
+[  9365][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[  9370][V][Parsing.cpp:237] _parseRequest(): Request: /
+
+[  9375][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[  9381][V][main.cpp:88] handle_root(): Handle root
+
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+
+
+Core  1 register dump:
+
+PC      : 0x40094bfb  PS      : 0x00060d30  A0      : 0x80094e50  A1      : 0x3ffb1ac0  
+
+A2      : 0xffffffff  A3      : 0x00000000  A4      : 0x0000001c  A5      : 0x3ffb1b40  
+
+A6      : 0x00000000  A7      : 0x00000001  A8      : 0xffffffff  A9      : 0x00000009  
+
+A10     : 0x00000000  A11     : 0x45eab7be  A12     : 0x45eab7be  A13     : 0x3ffc6f98  
+
+A14     : 0x00060d20  A15     : 0x00000001  SAR     : 0x00000020  EXCCAUSE: 0x0000001c  
+
+EXCVADDR: 0x00000013  LBEG    : 0x4008b464  LEND    : 0x4008b46f  LCOUNT  : 0x00000000  
+
+
+
+
+
+Backtrace: 0x40094bf8:0x3ffb1ac0 0x40094e4d:0x3ffb1ae0 0x400950cf:0x3ffb1b00 0x4011522e:0x3ffb1b20 0x400e7b26:0x3ffb1b60 0x400d7557:0x3ffb1ba0 0x4017a649:0x3ffb20d0 0x400e0a62:0x3ffb20f0 0x400e0b09:0x3ffb2110 0x400e0bef:0x3ffb2150 0x400e0e2a:0x3ffb21c0 0x4017ae01:0x3ffb2230 0x400e5981:0x3ffb2250 0x400d6dee:0x3ffb2270 0x400eafa1:0x3ffb2290
+
+
+
+
+
+
+
+
+
+ELF file SHA256: c12a36cef630ecfb
+
+
+
+Rebooting...
+
+ets Jun  8 2016 00:22:57
+
+
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+
+configsip: 0, SPIWP:0xee
+
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+
+mode:DIO, clock div:2
+
+load:0x3fff0030,len:1184
+
+load:0x40078000,len:13192
+
+load:0x40080400,len:3028
+
+entry 0x400805e4
+
+[     4][V][WiFiServer.h:42] WiFiServer(): WiFiServer::WiFiServer(port=80, ...)
+
+[     4][V][WebServer.cpp:87] WebServer(): WebServer::Webserver(port=80)
+
+[    31][D][esp32-hal-cpu.c:244] setCpuFrequencyMhz(): PLL: 480 / 2 = 240 Mhz, APB: 80000000 Hz
+
+[   480][I][esp32-hal-psram.c:96] psramInit(): PSRAM enabled
+
+[   505][V][[   507][I][main.cpp:400] setup(): CPU Freq: 240 Mhz
+
+[   507][I][main.cpp:401] setup(): Free heap: 248600 bytes
+
+[   507][I][main.cpp:402] setup(): SDK version: v4.4.4
+
+[   510][I][main.cpp:403] setup(): Starting ESP32CAM-RTSP...
+
+[   516][V][main.cpp:408] setup(): PSRAM found and initialized
+
+Config version: 1.5
+
+Config size: 455
+
+Loading configurations
+
+[iwcAll]
+
+|-- [iwcSys]
+
+|   |-- 'iwcThingName' with value: 'ESP32CAM-a0b8d37ce5a4'
+
+|   |-- 'iwcApPassword' with value: <hidden>
+
+|   |-- [iwcWifi0]
+
+|   |   |-- 'iwcWifiSsid' with value: 'MITLAB703'
+
+|   |   \-- 'iwcWifiPassword' with value: <hidden>
+
+|   \-- 'iwcApTimeout' with value: '30'
+
+|-- [iwcCustom]
+
+|   |-- [board]
+
+|   |   \-- 'bt' with value: 'ESP32CAM'
+
+|   |-- [camera]
+
+|   |   |-- 'fd' with value: '100'
+
+|   |   |-- 'fs' with value: 'QQVGA (160x120)'
+
+|   |   |-- 'q' with value: '12'
+
+|   |   |-- 'eps' with value: '0'
+
+|   |   |-- 'fb' with value: '1'
+
+|   |   |-- 'b' with value: '0'
+
+|   |   |-- 'c' with value: '0'
+
+|   |   |-- 's' with value: '0'
+
+|   |   |-- 'e' with value: 'Normal'
+
+|   |   |-- 'wb' with value: '1'
+
+|   |   |-- 'awbg' with value: '1'
+
+|   |   |-- 'wbm' with value: 'Auto'
+
+|   |   |-- 'ec' with value: '1'
+
+|   |   |-- 'aec2' with value: '1'
+
+|   |   |-- 'ael' with value: '0'
+
+|   |   |-- 'aecv' with value: '300'
+
+|   |   |-- 'gc' with value: '1'
+
+|   |   |-- 'agcg' with value: '0'
+
+|   |   |-- 'gcl' with value: '2X'
+
+|   |   |-- 'bpc' with value: '0'
+
+|   |   |-- 'wpc' with value: '1'
+
+|   |   |-- 'rg' with value: '1'
+
+|   |   |-- 'lenc' with value: '1'
+
+|   |   |-- 'hm' with value: '0'
+
+|   |   |-- 'vm' with value: '0'
+
+|   |   |-- 'dcw' with value: '1'
+
+|   |   \-- 'cb' with value: '0'
+
+|   \-- [io]
+
+|       \-- 'li' with value: '0'
+
+\-- [hidden]
+
+[   654][V][main.cpp:286] initialize_camera(): initialize_camera
+
+[   654][I][main.cpp:287] initialize_camera(): Camera config: ESP32CAM
+
+[   661][I][main.cpp:293] initialize_camera(): Frame size: QQVGA (160x120)
+
+[   667][I][main.cpp:295] initialize_camera(): JPEG quality: 12
+
+[   673][I][main.cpp:296] initialize_camera(): Frame duration: 100 ms
+
+[   679][I][main.cpp:300] initialize_camera(): Enable PSRAM: 0
+
+[   685][I][main.cpp:301] initialize_camera(): Frame buffers: 1
+
+[   690][I][main.cpp:312] initialize_camera(): PSRAM disabled
+
+E (700) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+
+[   730][E][main.cpp:456] setup(): Failed to initialize camera: 0x105. Type: ESP32CAM, frame size: QQVGA (160x120), frame rate: 100 ms, jpeg quality: 12
+
+[   739][V][esp32-hal-ledc.c:231] analogWrite(): GPIO 4 - Using Channel 15, Value = 0
+
+State changing from: 0 to 2
+
+[   774][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 0 - WIFI_READY
+
+Setting up AP: ESP32CAM-a0b8d37ce5a4
+
+Use password: <hidden>
+
+AP IP address: [   862][V][WiFiGeneric.cpp:392] _arduino_event_cb(): AP Started
+
+192.[   863][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 10 - AP_START
+
+168.4.1
+
+AP timeout (ms): 30000
+
+State changed from: 0 to 2
+
+Connection to AP.
+
+[  4591][V][WiFiGeneric.cpp:407] _arduino_event_cb(): AP Station Connected: MAC: aa:de:65:2d:84:b5, AID: 1
+
+[  4592][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 12 - AP_STACONNECTED
+
+[  5975][V][WiFiGeneric.cpp:421] _arduino_event_cb(): AP Station IP Assigned:192.168.4.2
+
+[  5976][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 14 - AP_STAIPASSIGNED
+
+[  6923][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.4.1
+
+[  7077][V][Parsing.cpp:122] _parseRequest(): method: POST url: /chat search: 
+
+[  7078][V][Parsing.cpp:154] _parseRequest(): headerName: Host
+
+[  7079][V][Parsing.cpp:155] _parseRequest(): headerValue: c.whatsapp.net
+
+[  7086][V][Parsing.cpp:154] _parseRequest(): headerName: User-Agent
+
+[  7092][V][Parsing.cpp:155] _parseRequest(): headerValue: Mozilla/5.0 (compatible; WAChat/1.2; +http://www.whatsapp.com/contact)
+
+[  7103][V][Parsing.cpp:154] _parseRequest(): headerName: Transfer-Encoding
+
+[  7110][V][Parsing.cpp:155] _parseRequest(): headerValue: chunked
+
+[  7116][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[  7121][V][Parsing.cpp:237] _parseRequest(): Request: /chat
+
+[  7126][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[  7131][E][WebServer.cpp:649] _handleRequest(): request handler not found
+
+Request for c.whatsapp.net redirected to 192.168.4.1:80
+
+[  7149][W][WebServer.cpp:436] send(): content length is zero
+
+[  8505][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.4.1
+
+[  8506][V][Parsing.cpp:122] _parseRequest(): method: GET url: /generate_204 search: 
+
+[  8510][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[  8516][V][Parsing.cpp:227] _parseRequest(): headerValue: Dalvik/2.1.0 (Linux; U; Android 10; SM-G960F Build/QP1A.190711.020)
+
+[  8527][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[  8533][V][Parsing.cpp:227] _parseRequest(): headerValue: connectivitycheck.gstatic.com
+
+[  8541][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[  8547][V][Parsing.cpp:227] _parseRequest(): headerValue: Keep-Alive
+
+[  8553][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[  8559][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip
+
+[  8565][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[  8570][V][Parsing.cpp:237] _parseRequest(): Request: /generate_204
+
+[  8576][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[  8581][E][WebServer.cpp:649] _handleRequest(): request handler not found
+
+Request for connectivitycheck.gstatic.com redirected to 192.168.4.1:80
+
+[  8599][W][WebServer.cpp:436] send(): content length is zero
+
+[  8613][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.4.1
+
+[  8614][V][Parsing.cpp:122] _parseRequest(): method: GET url: / search: 
+
+[  8617][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[  8622][V][Parsing.cpp:227] _parseRequest(): headerValue: Dalvik/2.1.0 (Linux; U; Android 10; SM-G960F Build/QP1A.190711.020)
+
+[  8633][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[  8639][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.4.1
+
+[  8645][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[  8651][V][Parsing.cpp:227] _parseRequest(): headerValue: Keep-Alive
+
+[  8658][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[  8664][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip
+
+[  8670][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[  8674][V][Parsing.cpp:237] _parseRequest(): Request: /
+
+[  8679][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[  8685][V][main.cpp:88] handle_root(): Handle root
+
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+
+
+Core  1 register dump:
+
+PC      : 0x40094bfb  PS      : 0x00060d30  A0      : 0x80094e50  A1      : 0x3ffb1ac0  
+
+A2      : 0xffffffff  A3      : 0x00000000  A4      : 0x0000001c  A5      : 0x3ffb1b40  
+
+A6      : 0x00000000  A7      : 0x00000001  A8      : 0xffffffff  A9      : 0x00000009  
+
+A10     : 0x00000000  A11     : 0x80b706db  A12     : 0x80b706db  A13     : 0x3ffc6f98  
+
+A14     : 0x00060d20  A15     : 0x00000001  SAR     : 0x00000019  EXCCAUSE: 0x0000001c  
+
+EXCVADDR: 0x00000013  LBEG    : 0x4008b464  LEND    : 0x4008b46f  LCOUNT  : 0x00000000  
+
+
+
+
+
+Backtrace: 0x40094bf8:0x3ffb1ac0 0x40094e4d:0x3ffb1ae0 0x400950cf:0x3ffb1b00 0x4011522e:0x3ffb1b20 0x400e7b26:0x3ffb1b60 0x400d7557:0x3ffb1ba0 0x4017a649:0x3ffb20d0 0x400e0a62:0x3ffb20f0 0x400e0b09:0x3ffb2110 0x400e0bef:0x3ffb2150 0x400e0e2a:0x3ffb21c0 0x4017ae01:0x3ffb2230 0x400e5981:0x3ffb2250 0x400d6dee:0x3ffb2270 0x400eafa1:0x3ffb2290
+
+
+
+
+
+
+
+
+
+ELF file SHA256: c12a36cef630ecfb
+
+
+
+Rebooting...
+
+ets Jun  8 2016 00:22:57
+
+
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+
+configsip: 0, SPIWP:0xee
+
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+
+mode:DIO, clock div:2
+
+load:0x3fff0030,len:1184
+
+load:0x40078000,len:13192
+
+load:0x40080400,len:3028
+
+entry 0x400805e4
+
+[     4][V][WiFiServer.h:42] WiFiServer(): WiFiServer::WiFiServer(port=80, ...)
+
+[     4][V][WebServer.cpp:87] WebServer(): WebServer::Webserver(port=80)
+
+[    31][D][esp32-hal-cpu.c:244] setCpuFrequencyMhz(): PLL: 480 / 2 = 240 Mhz, APB: 80000000 Hz
+
+[   480][I][esp32-hal-psram.c:96] psramInit(): PSRAM enabled
+
+[   505][V][[   507][I][main.cpp:400] setup(): CPU Freq: 240 Mhz
+
+[   507][I][main.cpp:401] setup(): Free heap: 248600 bytes
+
+[   507][I][main.cpp:402] setup(): SDK version: v4.4.4
+
+[   510][I][main.cpp:403] setup(): Starting ESP32CAM-RTSP...
+
+[   516][V][main.cpp:408] setup(): PSRAM found and initialized
+
+Config version: 1.5
+
+Config size: 455
+
+Loading configurations
+
+[iwcAll]
+
+|-- [iwcSys]
+
+|   |-- 'iwcThingName' with value: 'ESP32CAM-a0b8d37ce5a4'
+
+|   |-- 'iwcApPassword' with value: <hidden>
+
+|   |-- [iwcWifi0]
+
+|   |   |-- 'iwcWifiSsid' with value: 'MITLAB703'
+
+|   |   \-- 'iwcWifiPassword' with value: <hidden>
+
+|   \-- 'iwcApTimeout' with value: '30'
+
+|-- [iwcCustom]
+
+|   |-- [board]
+
+|   |   \-- 'bt' with value: 'ESP32CAM'
+
+|   |-- [camera]
+
+|   |   |-- 'fd' with value: '100'
+
+|   |   |-- 'fs' with value: 'QQVGA (160x120)'
+
+|   |   |-- 'q' with value: '12'
+
+|   |   |-- 'eps' with value: '0'
+
+|   |   |-- 'fb' with value: '1'
+
+|   |   |-- 'b' with value: '0'
+
+|   |   |-- 'c' with value: '0'
+
+|   |   |-- 's' with value: '0'
+
+|   |   |-- 'e' with value: 'Normal'
+
+|   |   |-- 'wb' with value: '1'
+
+|   |   |-- 'awbg' with value: '1'
+
+|   |   |-- 'wbm' with value: 'Auto'
+
+|   |   |-- 'ec' with value: '1'
+
+|   |   |-- 'aec2' with value: '1'
+
+|   |   |-- 'ael' with value: '0'
+
+|   |   |-- 'aecv' with value: '300'
+
+|   |   |-- 'gc' with value: '1'
+
+|   |   |-- 'agcg' with value: '0'
+
+|   |   |-- 'gcl' with value: '2X'
+
+|   |   |-- 'bpc' with value: '0'
+
+|   |   |-- 'wpc' with value: '1'
+
+|   |   |-- 'rg' with value: '1'
+
+|   |   |-- 'lenc' with value: '1'
+
+|   |   |-- 'hm' with value: '0'
+
+|   |   |-- 'vm' with value: '0'
+
+|   |   |-- 'dcw' with value: '1'
+
+|   |   \-- 'cb' with value: '0'
+
+|   \-- [io]
+
+|       \-- 'li' with value: '0'
+
+\-- [hidden]
+
+[   654][V][main.cpp:286] initialize_camera(): initialize_camera
+
+[   654][I][main.cpp:287] initialize_camera(): Camera config: ESP32CAM
+
+[   661][I][main.cpp:293] initialize_camera(): Frame size: QQVGA (160x120)
+
+[   667][I][main.cpp:295] initialize_camera(): JPEG quality: 12
+
+[   673][I][main.cpp:296] initialize_camera(): Frame duration: 100 ms
+
+[   679][I][main.cpp:300] initialize_camera(): Enable PSRAM: 0
+
+[   685][I][main.cpp:301] initialize_camera(): Frame buffers: 1
+
+[   690][I][main.cpp:312] initialize_camera(): PSRAM disabled
+
+E (700) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+
+[   730][E][main.cpp:456] setup(): Failed to initialize camera: 0x105. Type: ESP32CAM, frame size: QQVGA (160x120), frame rate: 100 ms, jpeg quality: 12
+
+[   739][V][esp32-hal-ledc.c:231] analogWrite(): GPIO 4 - Using Channel 15, Value = 0
+
+State changing from: 0 to 2
+
+[   774][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 0 - WIFI_READY
+
+Setting up AP: ESP32CAM-a0b8d37ce5a4
+
+Use password: <hidden>
+
+AP IP address: 192.168.4.1
+
+[   863][V][WiFiGeneric.cpp:392] _arduino_event_cb(): AP Started
+
+[   865][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 10 - AP_START
+
+AP timeout (ms): 30000
+
+State changed from: 0 to 2
+
+Connection to AP.
+
+[  4315][V][WiFiGeneric.cpp:407] _arduino_event_cb(): AP Station Connected: MAC: aa:de:65:2d:84:b5, AID: 1
+
+[  4316][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 12 - AP_STACONNECTED
+
+[  4840][V][WiFiGeneric.cpp:421] _arduino_event_cb(): AP Station IP Assigned:192.168.4.2
+
+[  4840][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 14 - AP_STAIPASSIGNED
+
+[  7148][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.4.1
+
+[  7149][V][Parsing.cpp:122] _parseRequest(): method: GET url: /generate_204 search: 
+
+[  7153][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[  7159][V][Parsing.cpp:227] _parseRequest(): headerValue: Dalvik/2.1.0 (Linux; U; Android 10; SM-G960F Build/QP1A.190711.020)
+
+[  7170][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[  7176][V][Parsing.cpp:227] _parseRequest(): headerValue: connectivitycheck.gstatic.com
+
+[  7184][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[  7189][V][Parsing.cpp:227] _parseRequest(): headerValue: Keep-Alive
+
+[  7196][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[  7202][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip
+
+[  7208][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[  7213][V][Parsing.cpp:237] _parseRequest(): Request: /generate_204
+
+[  7219][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[  7224][E][WebServer.cpp:649] _handleRequest(): request handler not found
+
+Request for connectivitycheck.gstatic.com redirected to 192.168.4.1:80
+
+[  7242][W][WebServer.cpp:436] send(): content length is zero
+
+[  7261][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.4.1
+
+[  7270][V][Parsing.cpp:122] _parseRequest(): method: GET url: /generate_204 search: 
+
+[  7271][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[  7273][V][Parsing.cpp:227] _parseRequest(): headerValue: Dalvik/2.1.0 (Linux; U; Android 10; SM-G960F Build/QP1A.190711.020)
+
+[  7284][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[  7289][V][Parsing.cpp:227] _parseRequest(): headerValue: connectivitycheck.gstatic.com
+
+[  7297][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[  7303][V][Parsing.cpp:227] _parseRequest(): headerValue: Keep-Alive
+
+[  7310][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[  7316][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip
+
+[  7322][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[  7327][V][Parsing.cpp:237] _parseRequest(): Request: /generate_204
+
+[  7333][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[  7338][E][WebServer.cpp:649] _handleRequest(): request handler not found
+
+Request for connectivitycheck.gstatic.com redirected to 192.168.4.1:80
+
+[  7356][W][WebServer.cpp:436] send(): content length is zero
+
+[  7379][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.4.1
+
+[  7380][V][Parsing.cpp:122] _parseRequest(): method: GET url: / search: 
+
+[  7383][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[  7389][V][Parsing.cpp:227] _parseRequest(): headerValue: Dalvik/2.1.0 (Linux; U; Android 10; SM-G960F Build/QP1A.190711.020)
+
+[  7400][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[  7406][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.4.1
+
+[  7412][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[  7418][V][Parsing.cpp:227] _parseRequest(): headerValue: Keep-Alive
+
+[  7424][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[  7431][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip
+
+[  7436][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[  7441][V][Parsing.cpp:237] _parseRequest(): Request: /
+
+[  7446][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[  7452][V][main.cpp:88] handle_root(): Handle root
+
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+
+
+Core  1 register dump:
+
+PC      : 0x40094bfb  PS      : 0x00060d30  A0      : 0x80094e50  A1      : 0x3ffb1ac0  
+
+A2      : 0xffffffff  A3      : 0x00000000  A4      : 0x0000001c  A5      : 0x3ffb1b40  
+
+A6      : 0x00000000  A7      : 0x00000001  A8      : 0xffffffff  A9      : 0x00000009  
+
+A10     : 0x00000000  A11     : 0x2d223fe1  A12     : 0x2d223fe1  A13     : 0x3ffc6f98  
+
+A14     : 0x00060d20  A15     : 0x00000001  SAR     : 0x0000001c  EXCCAUSE: 0x0000001c  
+
+EXCVADDR: 0x00000013  LBEG    : 0x4008b464  LEND    : 0x4008b46f  LCOUNT  : 0x00000000  
+
+
+
+
+
+Backtrace: 0x40094bf8:0x3ffb1ac0 0x40094e4d:0x3ffb1ae0 0x400950cf:0x3ffb1b00 0x4011522e:0x3ffb1b20 0x400e7b26:0x3ffb1b60 0x400d7557:0x3ffb1ba0 0x4017a649:0x3ffb20d0 0x400e0a62:0x3ffb20f0 0x400e0b09:0x3ffb2110 0x400e0bef:0x3ffb2150 0x400e0e2a:0x3ffb21c0 0x4017ae01:0x3ffb2230 0x400e5981:0x3ffb2250 0x400d6dee:0x3ffb2270 0x400eafa1:0x3ffb2290
+
+
+
+
+
+
+
+
+
+ELF file SHA256: c12a36cef630ecfb
+
+
+
+Rebooting...
+
+ets Jun  8 2016 00:22:57
+
+
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+
+configsip: 0, SPIWP:0xee
+
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+
+mode:DIO, clock div:2
+
+load:0x3fff0030,len:1184
+
+load:0x40078000,len:13192
+
+load:0x40080400,len:3028
+
+entry 0x400805e4
+
+[     4][V][WiFiServer.h:42] WiFiServer(): WiFiServer::WiFiServer(port=80, ...)
+
+[     4][V][WebServer.cpp:87] WebServer(): WebServer::Webserver(port=80)
+
+[    31][D][esp32-hal-cpu.c:244] setCpuFrequencyMhz(): PLL: 480 / 2 = 240 Mhz, APB: 80000000 Hz
+
+[   480][I][esp32-hal-psram.c:96] psramInit(): PSRAM enabled
+
+[   505][V][[   507][I][main.cpp:400] setup(): CPU Freq: 240 Mhz
+
+[   507][I][main.cpp:401] setup(): Free heap: 248600 bytes
+
+[   507][I][main.cpp:402] setup(): SDK version: v4.4.4
+
+[   510][I][main.cpp:403] setup(): Starting ESP32CAM-RTSP...
+
+[   516][V][main.cpp:408] setup(): PSRAM found and initialized
+
+Config version: 1.5
+
+Config size: 455
+
+Loading configurations
+
+[iwcAll]
+
+|-- [iwcSys]
+
+|   |-- 'iwcThingName' with value: 'ESP32CAM-a0b8d37ce5a4'
+
+|   |-- 'iwcApPassword' with value: <hidden>
+
+|   |-- [iwcWifi0]
+
+|   |   |-- 'iwcWifiSsid' with value: 'MITLAB703'
+
+|   |   \-- 'iwcWifiPassword' with value: <hidden>
+
+|   \-- 'iwcApTimeout' with value: '30'
+
+|-- [iwcCustom]
+
+|   |-- [board]
+
+|   |   \-- 'bt' with value: 'ESP32CAM'
+
+|   |-- [camera]
+
+|   |   |-- 'fd' with value: '100'
+
+|   |   |-- 'fs' with value: 'QQVGA (160x120)'
+
+|   |   |-- 'q' with value: '12'
+
+|   |   |-- 'eps' with value: '0'
+
+|   |   |-- 'fb' with value: '1'
+
+|   |   |-- 'b' with value: '0'
+
+|   |   |-- 'c' with value: '0'
+
+|   |   |-- 's' with value: '0'
+
+|   |   |-- 'e' with value: 'Normal'
+
+|   |   |-- 'wb' with value: '1'
+
+|   |   |-- 'awbg' with value: '1'
+
+|   |   |-- 'wbm' with value: 'Auto'
+
+|   |   |-- 'ec' with value: '1'
+
+|   |   |-- 'aec2' with value: '1'
+
+|   |   |-- 'ael' with value: '0'
+
+|   |   |-- 'aecv' with value: '300'
+
+|   |   |-- 'gc' with value: '1'
+
+|   |   |-- 'agcg' with value: '0'
+
+|   |   |-- 'gcl' with value: '2X'
+
+|   |   |-- 'bpc' with value: '0'
+
+|   |   |-- 'wpc' with value: '1'
+
+|   |   |-- 'rg' with value: '1'
+
+|   |   |-- 'lenc' with value: '1'
+
+|   |   |-- 'hm' with value: '0'
+
+|   |   |-- 'vm' with value: '0'
+
+|   |   |-- 'dcw' with value: '1'
+
+|   |   \-- 'cb' with value: '0'
+
+|   \-- [io]
+
+|       \-- 'li' with value: '0'
+
+\-- [hidden]
+
+[   654][V][main.cpp:286] initialize_camera(): initialize_camera
+
+[   654][I][main.cpp:287] initialize_camera(): Camera config: ESP32CAM
+
+[   661][I][main.cpp:293] initialize_camera(): Frame size: QQVGA (160x120)
+
+[   667][I][main.cpp:295] initialize_camera(): JPEG quality: 12
+
+[   673][I][main.cpp:296] initialize_camera(): Frame duration: 100 ms
+
+[   679][I][main.cpp:300] initialize_camera(): Enable PSRAM: 0
+
+[   685][I][main.cpp:301] initialize_camera(): Frame buffers: 1
+
+[   690][I][main.cpp:312] initialize_camera(): PSRAM disabled
+
+E (700) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+
+[   730][E][main.cpp:456] setup(): Failed to initialize camera: 0x105. Type: ESP32CAM, frame size: QQVGA (160x120), frame rate: 100 ms, jpeg quality: 12
+
+[   739][V][esp32-hal-ledc.c:231] analogWrite(): GPIO 4 - Using Channel 15, Value = 0
+
+State changing from: 0 to 2
+
+[   774][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 0 - WIFI_READY
+
+Setting up AP: ESP32CAM-a0b8d37ce5a4
+
+Use password: <hidden>
+
+AP IP address: [   863][V][WiFiGeneric.cpp:392] _arduino_event_cb(): AP Started
+
+192[   864][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 10 - AP_START
+
+.168.4.1
+
+AP timeout (ms): 30000
+
+State changed from: 0 to 2
+
+Connection to AP.
+
+[  4556][V][WiFiGeneric.cpp:407] _arduino_event_cb(): AP Station Connected: MAC: aa:de:65:2d:84:b5, AID: 1
+
+[  4557][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 12 - AP_STACONNECTED
+
+[  5900][V][WiFiGeneric.cpp:421] _arduino_event_cb(): AP Station IP Assigned:192.168.4.2
+
+[  5901][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 14 - AP_STAIPASSIGNED
+
+[  8262][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.4.1
+
+[  8263][V][Parsing.cpp:122] _parseRequest(): method: GET url: /generate_204 search: 
+
+[  8267][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[  8273][V][Parsing.cpp:227] _parseRequest(): headerValue: Dalvik/2.1.0 (Linux; U; Android 10; SM-G960F Build/QP1A.190711.020)
+
+[  8284][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[  8290][V][Parsing.cpp:227] _parseRequest(): headerValue: connectivitycheck.gstatic.com
+
+[  8298][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[  8303][V][Parsing.cpp:227] _parseRequest(): headerValue: Keep-Alive
+
+[  8310][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[  8316][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip
+
+[  8322][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[  8327][V][Parsing.cpp:237] _parseRequest(): Request: /generate_204
+
+[  8333][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[  8339][E][WebServer.cpp:649] _handleRequest(): request handler not found
+
+Request for connectivitycheck.gstatic.com redirected to 192.168.4.1:80
+
+[  8356][W][WebServer.cpp:436] send(): content length is zero
+
+[  8383][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.4.1
+
+[  8383][V][Parsing.cpp:122] _parseRequest(): method: GET url: /generate_204 search: 
+
+[  8387][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[  8393][V][Parsing.cpp:227] _parseRequest(): headerValue: Dalvik/2.1.0 (Linux; U; Android 10; SM-G960F Build/QP1A.190711.020)
+
+[  8404][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[  8410][V][Parsing.cpp:227] _parseRequest(): headerValue: connectivitycheck.gstatic.com
+
+[  8418][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[  8424][V][Parsing.cpp:227] _parseRequest(): headerValue: Keep-Alive
+
+[  8430][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[  8436][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip
+
+[  8442][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[  8447][V][Parsing.cpp:237] _parseRequest(): Request: /generate_204
+
+[  8453][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[  8458][E][WebServer.cpp:649] _handleRequest(): request handler not found
+
+Request for connectivitycheck.gstatic.com redirected to 192.168.4.1:80
+
+[  8476][W][WebServer.cpp:436] send(): content length is zero
+
+[  8544][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.4.1
+
+[  8547][V][Parsing.cpp:122] _parseRequest(): method: GET url: / search: 
+
+[  8548][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[  8553][V][Parsing.cpp:227] _parseRequest(): headerValue: Dalvik/2.1.0 (Linux; U; Android 10; SM-G960F Build/QP1A.190711.020)
+
+[  8564][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[  8570][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.4.1
+
+[  8576][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[  8582][V][Parsing.cpp:227] _parseRequest(): headerValue: Keep-Alive
+
+[  8589][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[  8595][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip
+
+[  8601][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[  8606][V][Parsing.cpp:237] _parseRequest(): Request: /
+
+[  8610][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[  8616][V][main.cpp:88] handle_root(): Handle root
+
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+
+
+Core  1 register dump:
+
+PC      : 0x40094bfb  PS      : 0x00060d30  A0      : 0x80094e50  A1      : 0x3ffb1ac0  
+
+A2      : 0xffffffff  A3      : 0x00000000  A4      : 0x0000001c  A5      : 0x3ffb1b40  
+
+A6      : 0x00000000  A7      : 0x00000001  A8      : 0xffffffff  A9      : 0x00000009  
+
+A10     : 0x00000000  A11     : 0x9cca4775  A12     : 0x9cca4775  A13     : 0x3ffc6f98  
+
+A14     : 0x00060d20  A15     : 0x00000001  SAR     : 0x00000020  EXCCAUSE: 0x0000001c  
+
+EXCVADDR: 0x00000013  LBEG    : 0x4008b464  LEND    : 0x4008b46f  LCOUNT  : 0x00000000  
+
+
+
+
+
+Backtrace: 0x40094bf8:0x3ffb1ac0 0x40094e4d:0x3ffb1ae0 0x400950cf:0x3ffb1b00 0x4011522e:0x3ffb1b20 0x400e7b26:0x3ffb1b60 0x400d7557:0x3ffb1ba0 0x4017a649:0x3ffb20d0 0x400e0a62:0x3ffb20f0 0x400e0b09:0x3ffb2110 0x400e0bef:0x3ffb2150 0x400e0e2a:0x3ffb21c0 0x4017ae01:0x3ffb2230 0x400e5981:0x3ffb2250 0x400d6dee:0x3ffb2270 0x400eafa1:0x3ffb2290
+
+
+
+
+
+
+
+
+
+ELF file SHA256: c12a36cef630ecfb
+
+
+
+Rebooting...
+
+ets Jun  8 2016 00:22:57
+
+
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+
+configsip: 0, SPIWP:0xee
+
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+
+mode:DIO, clock div:2
+
+load:0x3fff0030,len:1184
+
+load:0x40078000,len:13192
+
+load:0x40080400,len:3028
+
+entry 0x400805e4
+
+[     4][V][WiFiServer.h:42] WiFiServer(): WiFiServer::WiFiServer(port=80, ...)
+
+[     4][V][WebServer.cpp:87] WebServer(): WebServer::Webserver(port=80)
+
+[    31][D][esp32-hal-cpu.c:244] setCpuFrequencyMhz(): PLL: 480 / 2 = 240 Mhz, APB: 80000000 Hz
+
+[   480][I][esp32-hal-psram.c:96] psramInit(): PSRAM enabled
+
+[   505][V][[   507][I][main.cpp:400] setup(): CPU Freq: 240 Mhz
+
+[   507][I][main.cpp:401] setup(): Free heap: 248600 bytes
+
+[   507][I][main.cpp:402] setup(): SDK version: v4.4.4
+
+[   510][I][main.cpp:403] setup(): Starting ESP32CAM-RTSP...
+
+[   516][V][main.cpp:408] setup(): PSRAM found and initialized
+
+Config version: 1.5
+
+Config size: 455
+
+Loading configurations
+
+[iwcAll]
+
+|-- [iwcSys]
+
+|   |-- 'iwcThingName' with value: 'ESP32CAM-a0b8d37ce5a4'
+
+|   |-- 'iwcApPassword' with value: <hidden>
+
+|   |-- [iwcWifi0]
+
+|   |   |-- 'iwcWifiSsid' with value: 'MITLAB703'
+
+|   |   \-- 'iwcWifiPassword' with value: <hidden>
+
+|   \-- 'iwcApTimeout' with value: '30'
+
+|-- [iwcCustom]
+
+|   |-- [board]
+
+|   |   \-- 'bt' with value: 'ESP32CAM'
+
+|   |-- [camera]
+
+|   |   |-- 'fd' with value: '100'
+
+|   |   |-- 'fs' with value: 'QQVGA (160x120)'
+
+|   |   |-- 'q' with value: '12'
+
+|   |   |-- 'eps' with value: '0'
+
+|   |   |-- 'fb' with value: '1'
+
+|   |   |-- 'b' with value: '0'
+
+|   |   |-- 'c' with value: '0'
+
+|   |   |-- 's' with value: '0'
+
+|   |   |-- 'e' with value: 'Normal'
+
+|   |   |-- 'wb' with value: '1'
+
+|   |   |-- 'awbg' with value: '1'
+
+|   |   |-- 'wbm' with value: 'Auto'
+
+|   |   |-- 'ec' with value: '1'
+
+|   |   |-- 'aec2' with value: '1'
+
+|   |   |-- 'ael' with value: '0'
+
+|   |   |-- 'aecv' with value: '300'
+
+|   |   |-- 'gc' with value: '1'
+
+|   |   |-- 'agcg' with value: '0'
+
+|   |   |-- 'gcl' with value: '2X'
+
+|   |   |-- 'bpc' with value: '0'
+
+|   |   |-- 'wpc' with value: '1'
+
+|   |   |-- 'rg' with value: '1'
+
+|   |   |-- 'lenc' with value: '1'
+
+|   |   |-- 'hm' with value: '0'
+
+|   |   |-- 'vm' with value: '0'
+
+|   |   |-- 'dcw' with value: '1'
+
+|   |   \-- 'cb' with value: '0'
+
+|   \-- [io]
+
+|       \-- 'li' with value: '0'
+
+\-- [hidden]
+
+[   654][V][main.cpp:286] initialize_camera(): initialize_camera
+
+[   654][I][main.cpp:287] initialize_camera(): Camera config: ESP32CAM
+
+[   661][I][main.cpp:293] initialize_camera(): Frame size: QQVGA (160x120)
+
+[   667][I][main.cpp:295] initialize_camera(): JPEG quality: 12
+
+[   673][I][main.cpp:296] initialize_camera(): Frame duration: 100 ms
+
+[   679][I][main.cpp:300] initialize_camera(): Enable PSRAM: 0
+
+[   685][I][main.cpp:301] initialize_camera(): Frame buffers: 1
+
+[   690][I][main.cpp:312] initialize_camera(): PSRAM disabled
+
+E (700) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+
+[   730][E][main.cpp:456] setup(): Failed to initialize camera: 0x105. Type: ESP32CAM, frame size: QQVGA (160x120), frame rate: 100 ms, jpeg quality: 12
+
+[   739][V][esp32-hal-ledc.c:231] analogWrite(): GPIO 4 - Using Channel 15, Value = 0
+
+State changing from: 0 to 2
+
+[   774][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 0 - WIFI_READY
+
+Setting up AP: ESP32CAM-a0b8d37ce5a4
+
+Use password: <hidden>
+
+AP IP address: [   862][V][WiFiGeneric.cpp:392] _arduino_event_cb(): AP Started
+
+192.[   864][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 10 - AP_START
+
+168.4.1
+
+AP timeout (ms): 30000
+
+State changed from: 0 to 2
+
+Connection to AP.
+
+Disconnected from AP.
+
+State changing from: 2 to 3
+
+[ 23836][V][WiFiGeneric.cpp:395] _arduino_event_cb(): AP Stopped
+
+[ 23836][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 11 - AP_STOP
+
+[ 23840][V][WiFiGeneric.cpp:392] _arduino_event_cb(): AP Started
+
+[ 23844][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 10 - AP_START
+
+CCamera probe failed with error 0x105E (30047) wifi_init_default: esp_wifi_get_mac failed with 12289
+
+onnecting to [MITLAB703] (password is hidden)
+
+WiFi timeout (ms): 30000
+
+[ 23860][V][WiFiGeneric.cpp:395] _arduino_event_cb(): AP Stopped
+
+[ 23886][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 11 - AP_STOP
+
+[ 23886][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 0 - WIFI_READY
+
+[ 23894][V][WiFiGeneric.cpp:340] _arduino_event_cb(): STA Started
+
+[ 23895][V][WiFiGeneric.cpp:97] set_esp_interface_ip(): Configuring Station static IP: 0.0.0.0, MASK: 0.0.0.0, GW: 0.0.0.0
+
+[ 23896][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 2 - STA_START
+
+State changed from: 2 to 3
+
+[ 24066][V][WiFiGeneric.cpp:355] _arduino_event_cb(): STA Connected: SSID: MITLAB703, BSSID: 40:ee:15:c8:8e:1c, Channel: 1, Auth: WPA2_PSK
+
+[ 24067][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 4 - STA_CONNECTED
+
+[ 24084][V][WiFiGeneric.cpp:369] _arduino_event_cb(): STA Got New IP:192.168.111.14
+
+[ 24084][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 7 - STA_GOT_IP
+
+[ 24089][D][WiFiGeneric.cpp:1098] _eventCallback(): STA IP: 192.168.111.14, MASK: 255.255.255.0, GW: 192.168.111.1
+
+WiFi connected
+
+IP address: 192.168.111.14
+
+State changing from: 3 to 4
+
+[ 27212][W][ESPmDNS.cpp:222] queryService(): No results found!
+
+Active mDNS services: 0 
+Accepting connection
+
+[ 27217][V][main.cpp:362] on_connected(): on_connected
+
+[ 27230][I][ArduinoOTA.cpp:141] begin(): OTA server at: esp32-a4e57cd3b8a0.local:3232
+
+[ 27230][E][main.cpp:369] on_connected(): Not starting RTSP server: camera not initialized
+
+State changed from: 3 to 4
+
+[ 28297][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[ 28298][V][Parsing.cpp:122] _parseRequest(): method: GET url: /config search: 
+
+[ 28302][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[ 28307][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.111.14
+
+[ 28314][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[ 28320][V][Parsing.cpp:227] _parseRequest(): headerValue: keep-alive
+
+[ 28326][V][Parsing.cpp:226] _parseRequest(): headerName: Cache-Control
+
+[ 28332][V][Parsing.cpp:227] _parseRequest(): headerValue: max-age=0
+
+[ 28338][V][Parsing.cpp:226] _parseRequest(): headerName: Upgrade-Insecure-Requests
+
+[ 28346][V][Parsing.cpp:227] _parseRequest(): headerValue: 1
+
+[ 28351][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[ 28357][V][Parsing.cpp:227] _parseRequest(): headerValue: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+
+[ 28374][V][Parsing.cpp:226] _parseRequest(): headerName: Accept
+
+[ 28379][V][Parsing.cpp:227] _parseRequest(): headerValue: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+
+[ 28396][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[ 28402][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip, deflate
+
+[ 28408][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Language
+
+[ 28415][V][Parsing.cpp:227] _parseRequest(): headerValue: en-US,en;q=0.9
+
+[ 28421][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[ 28426][V][Parsing.cpp:237] _parseRequest(): Request: /config
+
+[ 28432][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+Requesting authentication.
+
+[ 28448][W][WebServer.cpp:436] send(): content length is zero
+
+[ 28453][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[ 55879][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[ 55880][V][Parsing.cpp:122] _parseRequest(): method: GET url: /config search: 
+
+[ 55884][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[ 55889][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.111.14
+
+[ 55896][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[ 55902][V][Parsing.cpp:227] _parseRequest(): headerValue: keep-alive
+
+[ 55908][V][Parsing.cpp:226] _parseRequest(): headerName: Cache-Control
+
+[ 55914][V][Parsing.cpp:227] _parseRequest(): headerValue: max-age=0
+
+[ 55920][V][Parsing.cpp:226] _parseRequest(): headerName: Authorization
+
+[ 55927][V][Parsing.cpp:227] _parseRequest(): headerValue: Basic Og==
+
+[ 55933][V][Parsing.cpp:226] _parseRequest(): headerName: Upgrade-Insecure-Requests
+
+[ 55940][V][Parsing.cpp:227] _parseRequest(): headerValue: 1
+
+[ 55946][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[ 55952][V][Parsing.cpp:227] _parseRequest(): headerValue: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+
+[ 55969][V][Parsing.cpp:226] _parseRequest(): headerName: Accept
+
+[ 55974][V][Parsing.cpp:227] _parseRequest(): headerValue: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+
+[ 55990][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[ 55996][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip, deflate
+
+[ 56003][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Language
+
+[ 56009][V][Parsing.cpp:227] _parseRequest(): headerValue: en-US,en;q=0.9
+
+[ 56016][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[ 56021][V][Parsing.cpp:237] _parseRequest(): Request: /config
+
+[ 56026][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+Requesting authentication.
+
+[ 56043][W][WebServer.cpp:436] send(): content length is zero
+
+[ 56047][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[ 86276][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[ 91280][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[ 91282][V][Parsing.cpp:122] _parseRequest(): method: GET url: /config search: 
+
+[ 91285][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[ 91290][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.111.14
+
+[ 91297][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[ 91303][V][Parsing.cpp:227] _parseRequest(): headerValue: keep-alive
+
+[ 91309][V][Parsing.cpp:226] _parseRequest(): headerName: Cache-Control
+
+[ 91315][V][Parsing.cpp:227] _parseRequest(): headerValue: max-age=0
+
+[ 91322][V][Parsing.cpp:226] _parseRequest(): headerName: Authorization
+
+[ 91328][V][Parsing.cpp:227] _parseRequest(): headerValue: Basic RVNQMzJDQU0tUlRTUDo=
+
+[ 91335][V][Parsing.cpp:226] _parseRequest(): headerName: Upgrade-Insecure-Requests
+
+[ 91343][V][Parsing.cpp:227] _parseRequest(): headerValue: 1
+
+[ 91349][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[ 91354][V][Parsing.cpp:227] _parseRequest(): headerValue: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+
+[ 91371][V][Parsing.cpp:226] _parseRequest(): headerName: Accept
+
+[ 91376][V][Parsing.cpp:227] _parseRequest(): headerValue: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+
+[ 91393][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[ 91399][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip, deflate
+
+[ 91406][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Language
+
+[ 91412][V][Parsing.cpp:227] _parseRequest(): headerValue: en-US,en;q=0.9
+
+[ 91418][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[ 91423][V][Parsing.cpp:237] _parseRequest(): Request: /config
+
+[ 91429][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+Requesting authentication.
+
+[ 91445][W][WebServer.cpp:436] send(): content length is zero
+
+[128547][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[128548][V][Parsing.cpp:122] _parseRequest(): method: GET url: /config search: 
+
+[128552][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[128557][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.111.14
+
+[128564][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[128570][V][Parsing.cpp:227] _parseRequest(): headerValue: keep-alive
+
+[128576][V][Parsing.cpp:226] _parseRequest(): headerName: Cache-Control
+
+[128582][V][Parsing.cpp:227] _parseRequest(): headerValue: max-age=0
+
+[128588][V][Parsing.cpp:226] _parseRequest(): headerName: Authorization
+
+[128595][V][Parsing.cpp:227] _parseRequest(): headerValue: Basic RVNQMzJDQU0tYTBiOGQzN2NlNWE0Og==
+
+[128603][V][Parsing.cpp:226] _parseRequest(): headerName: Upgrade-Insecure-Requests
+
+[128611][V][Parsing.cpp:227] _parseRequest(): headerValue: 1
+
+[128616][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[128622][V][Parsing.cpp:227] _parseRequest(): headerValue: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+
+[128639][V][Parsing.cpp:226] _parseRequest(): headerName: Accept
+
+[128644][V][Parsing.cpp:227] _parseRequest(): headerValue: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+
+[128660][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[128667][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip, deflate
+
+[128673][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Language
+
+[128680][V][Parsing.cpp:227] _parseRequest(): headerValue: en-US,en;q=0.9
+
+[128686][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[128691][V][Parsing.cpp:237] _parseRequest(): Request: /config
+
+[128697][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+Requesting authentication.
+
+[128713][W][WebServer.cpp:436] send(): content length is zero
+
+[128718][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[162654][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[162655][V][Parsing.cpp:122] _parseRequest(): method: GET url: /config search: 
+
+[162658][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[162664][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.111.14
+
+[162670][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[162676][V][Parsing.cpp:227] _parseRequest(): headerValue: keep-alive
+
+[162683][V][Parsing.cpp:226] _parseRequest(): headerName: Cache-Control
+
+[162689][V][Parsing.cpp:227] _parseRequest(): headerValue: max-age=0
+
+[162695][V][Parsing.cpp:226] _parseRequest(): headerName: Authorization
+
+[162701][V][Parsing.cpp:227] _parseRequest(): headerValue: Basic RVNQMzJDQU0tYTBiOGQzN2NlNWE0Ok1pdGxhYjcwMy0y
+
+[162711][V][Parsing.cpp:226] _parseRequest(): headerName: Upgrade-Insecure-Requests
+
+[162718][V][Parsing.cpp:227] _parseRequest(): headerValue: 1
+
+[162724][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[162730][V][Parsing.cpp:227] _parseRequest(): headerValue: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+
+[162747][V][Parsing.cpp:226] _parseRequest(): headerName: Accept
+
+[162752][V][Parsing.cpp:227] _parseRequest(): headerValue: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+
+[162768][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[162775][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip, deflate
+
+[162781][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Language
+
+[162787][V][Parsing.cpp:227] _parseRequest(): headerValue: en-US,en;q=0.9
+
+[162794][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[162799][V][Parsing.cpp:237] _parseRequest(): Request: /config
+
+[162804][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+Requesting authentication.
+
+[162821][W][WebServer.cpp:436] send(): content length is zero
+
+[162828][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[175867][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[175888][V][Parsing.cpp:122] _parseRequest(): method: GET url: /config search: 
+
+[175888][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[175889][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.111.14
+
+[175896][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[175902][V][Parsing.cpp:227] _parseRequest(): headerValue: keep-alive
+
+[175908][V][Parsing.cpp:226] _parseRequest(): headerName: Cache-Control
+
+[175914][V][Parsing.cpp:227] _parseRequest(): headerValue: max-age=0
+
+[175921][V][Parsing.cpp:226] _parseRequest(): headerName: Authorization
+
+[175927][V][Parsing.cpp:227] _parseRequest(): headerValue: Basic TUlUTEFCNzAzOk1pdGxhYjcwMy0y
+
+[175935][V][Parsing.cpp:226] _parseRequest(): headerName: Upgrade-Insecure-Requests
+
+[175942][V][Parsing.cpp:227] _parseRequest(): headerValue: 1
+
+[175948][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[175954][V][Parsing.cpp:227] _parseRequest(): headerValue: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+
+[175971][V][Parsing.cpp:226] _parseRequest(): headerName: Accept
+
+[175976][V][Parsing.cpp:227] _parseRequest(): headerValue: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+
+[175992][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[175999][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip, deflate
+
+[176005][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Language
+
+[176012][V][Parsing.cpp:227] _parseRequest(): headerValue: en-US,en;q=0.9
+
+[176018][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[176023][V][Parsing.cpp:237] _parseRequest(): Request: /config
+
+[176029][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+Requesting authentication.
+
+[176045][W][WebServer.cpp:436] send(): content length is zero
+
+[176050][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[192218][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[192219][V][Parsing.cpp:122] _parseRequest(): method: GET url: /config search: 
+
+[192223][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[192228][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.111.14
+
+[192235][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[192241][V][Parsing.cpp:227] _parseRequest(): headerValue: keep-alive
+
+[192247][V][Parsing.cpp:226] _parseRequest(): headerName: Cache-Control
+
+[192253][V][Parsing.cpp:227] _parseRequest(): headerValue: max-age=0
+
+[192259][V][Parsing.cpp:226] _parseRequest(): headerName: Authorization
+
+[192266][V][Parsing.cpp:227] _parseRequest(): headerValue: Basic RVNQMzJDQU06TWl0bGFiNzAzLTI=
+
+[192274][V][Parsing.cpp:226] _parseRequest(): headerName: Upgrade-Insecure-Requests
+
+[192281][V][Parsing.cpp:227] _parseRequest(): headerValue: 1
+
+[192287][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[192293][V][Parsing.cpp:227] _parseRequest(): headerValue: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+
+[192310][V][Parsing.cpp:226] _parseRequest(): headerName: Accept
+
+[192315][V][Parsing.cpp:227] _parseRequest(): headerValue: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+
+[192331][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[192337][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip, deflate
+
+[192344][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Language
+
+[192350][V][Parsing.cpp:227] _parseRequest(): headerValue: en-US,en;q=0.9
+
+[192357][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[192362][V][Parsing.cpp:237] _parseRequest(): Request: /config
+
+[192367][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+Requesting authentication.
+
+[192384][W][WebServer.cpp:436] send(): content length is zero
+
+[192390][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[236067][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[236068][V][Parsing.cpp:122] _parseRequest(): method: GET url: /config search: 
+
+[236072][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[236077][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.111.14
+
+[236084][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[236090][V][Parsing.cpp:227] _parseRequest(): headerValue: keep-alive
+
+[236096][V][Parsing.cpp:226] _parseRequest(): headerName: Cache-Control
+
+[236102][V][Parsing.cpp:227] _parseRequest(): headerValue: max-age=0
+
+[236108][V][Parsing.cpp:226] _parseRequest(): headerName: Authorization
+
+[236115][V][Parsing.cpp:227] _parseRequest(): headerValue: Basic RVNQMzJDQU06
+
+[236122][V][Parsing.cpp:226] _parseRequest(): headerName: Upgrade-Insecure-Requests
+
+[236129][V][Parsing.cpp:227] _parseRequest(): headerValue: 1
+
+[236135][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[236140][V][Parsing.cpp:227] _parseRequest(): headerValue: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+
+[236157][V][Parsing.cpp:226] _parseRequest(): headerName: Accept
+
+[236162][V][Parsing.cpp:227] _parseRequest(): headerValue: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+
+[236179][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[236185][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip, deflate
+
+[236192][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Language
+
+[236198][V][Parsing.cpp:227] _parseRequest(): headerValue: en-US,en;q=0.9
+
+[236205][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[236209][V][Parsing.cpp:237] _parseRequest(): Request: /config
+
+[236215][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+Requesting authentication.
+
+[236231][W][WebServer.cpp:436] send(): content length is zero
+
+[236238][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[259416][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[264419][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[264421][V][Parsing.cpp:122] _parseRequest(): method: GET url: /config search: 
+
+[264423][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[264429][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.111.14
+
+[264435][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[264441][V][Parsing.cpp:227] _parseRequest(): headerValue: keep-alive
+
+[264448][V][Parsing.cpp:226] _parseRequest(): headerName: Cache-Control
+
+[264454][V][Parsing.cpp:227] _parseRequest(): headerValue: max-age=0
+
+[264460][V][Parsing.cpp:226] _parseRequest(): headerName: Authorization
+
+[264466][V][Parsing.cpp:227] _parseRequest(): headerValue: Basic OkVTUDMyQ0FNLVJUU1A=
+
+[264474][V][Parsing.cpp:226] _parseRequest(): headerName: Upgrade-Insecure-Requests
+
+[264481][V][Parsing.cpp:227] _parseRequest(): headerValue: 1
+
+[264487][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[264493][V][Parsing.cpp:227] _parseRequest(): headerValue: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+
+[264510][V][Parsing.cpp:226] _parseRequest(): headerName: Accept
+
+[264515][V][Parsing.cpp:227] _parseRequest(): headerValue: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+
+[264531][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[264537][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip, deflate
+
+[264544][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Language
+
+[264550][V][Parsing.cpp:227] _parseRequest(): headerValue: en-US,en;q=0.9
+
+[264557][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[264562][V][Parsing.cpp:237] _parseRequest(): Request: /config
+
+[264567][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+Requesting authentication.
+
+[264584][W][WebServer.cpp:436] send(): content length is zero
+
+[269859][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[269860][V][Parsing.cpp:122] _parseRequest(): method: GET url: /config search: 
+
+[269864][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[269869][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.111.14
+
+[269876][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[269882][V][Parsing.cpp:227] _parseRequest(): headerValue: keep-alive
+
+[269888][V][Parsing.cpp:226] _parseRequest(): headerName: Cache-Control
+
+[269894][V][Parsing.cpp:227] _parseRequest(): headerValue: max-age=0
+
+[269900][V][Parsing.cpp:226] _parseRequest(): headerName: Authorization
+
+[269906][V][Parsing.cpp:227] _parseRequest(): headerValue: Basic RVNQMzJDQU0tUlRTUDpFU1AzMkNBTS1SVFNQ
+
+[269916][V][Parsing.cpp:226] _parseRequest(): headerName: Upgrade-Insecure-Requests
+
+[269923][V][Parsing.cpp:227] _parseRequest(): headerValue: 1
+
+[269929][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[269934][V][Parsing.cpp:227] _parseRequest(): headerValue: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+
+[269951][V][Parsing.cpp:226] _parseRequest(): headerName: Accept
+
+[269956][V][Parsing.cpp:227] _parseRequest(): headerValue: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+
+[269973][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[269979][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip, deflate
+
+[269986][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Language
+
+[269992][V][Parsing.cpp:227] _parseRequest(): headerValue: en-US,en;q=0.9
+
+[269999][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[270003][V][Parsing.cpp:237] _parseRequest(): Request: /config
+
+[270009][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+Requesting authentication.
+
+[270025][W][WebServer.cpp:436] send(): content length is zero
+
+[270031][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[356183][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[356184][V][Parsing.cpp:122] _parseRequest(): method: GET url: /config search: 
+
+[356187][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[356193][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.111.14
+
+[356199][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[356205][V][Parsing.cpp:227] _parseRequest(): headerValue: keep-alive
+
+[356212][V][Parsing.cpp:226] _parseRequest(): headerName: Cache-Control
+
+[356218][V][Parsing.cpp:227] _parseRequest(): headerValue: max-age=0
+
+[356224][V][Parsing.cpp:226] _parseRequest(): headerName: Authorization
+
+[356230][V][Parsing.cpp:227] _parseRequest(): headerValue: Basic YWRtaW46
+
+[356237][V][Parsing.cpp:226] _parseRequest(): headerName: Upgrade-Insecure-Requests
+
+[356244][V][Parsing.cpp:227] _parseRequest(): headerValue: 1
+
+[356250][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[356256][V][Parsing.cpp:227] _parseRequest(): headerValue: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+
+[356273][V][Parsing.cpp:226] _parseRequest(): headerName: Accept
+
+[356278][V][Parsing.cpp:227] _parseRequest(): headerValue: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+
+[356294][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[356300][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip, deflate
+
+[356307][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Language
+
+[356313][V][Parsing.cpp:227] _parseRequest(): headerValue: en-US,en;q=0.9
+
+[356320][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[356325][V][Parsing.cpp:237] _parseRequest(): Request: /config
+
+[356330][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+Requesting authentication.
+
+[356347][W][WebServer.cpp:436] send(): content length is zero
+
+[356352][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[359051][V][Parsing.cpp:122] _parseRequest(): method: GET url: /config search: 
+
+[359052][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[359053][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.111.14
+
+[359059][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[359065][V][Parsing.cpp:227] _parseRequest(): headerValue: keep-alive
+
+[359072][V][Parsing.cpp:226] _parseRequest(): headerName: Cache-Control
+
+[359078][V][Parsing.cpp:227] _parseRequest(): headerValue: max-age=0
+
+[359084][V][Parsing.cpp:226] _parseRequest(): headerName: Authorization
+
+[359090][V][Parsing.cpp:227] _parseRequest(): headerValue: Basic YWRtaW46YWRtaW4=
+
+[359098][V][Parsing.cpp:226] _parseRequest(): headerName: Upgrade-Insecure-Requests
+
+[359105][V][Parsing.cpp:227] _parseRequest(): headerValue: 1
+
+[359111][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[359116][V][Parsing.cpp:227] _parseRequest(): headerValue: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+
+[359133][V][Parsing.cpp:226] _parseRequest(): headerName: Accept
+
+[359139][V][Parsing.cpp:227] _parseRequest(): headerValue: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+
+[359155][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[359161][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip, deflate
+
+[359168][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Language
+
+[359174][V][Parsing.cpp:227] _parseRequest(): headerValue: en-US,en;q=0.9
+
+[359181][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[359185][V][Parsing.cpp:237] _parseRequest(): Request: /config
+
+[359191][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+Requesting authentication.
+
+[359207][W][WebServer.cpp:436] send(): content length is zero
+
+[359213][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[379528][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[379529][V][Parsing.cpp:122] _parseRequest(): method: GET url: /config search: 
+
+[379533][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[379538][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.111.14
+
+[379545][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[379551][V][Parsing.cpp:227] _parseRequest(): headerValue: keep-alive
+
+[379557][V][Parsing.cpp:226] _parseRequest(): headerName: Cache-Control
+
+[379563][V][Parsing.cpp:227] _parseRequest(): headerValue: max-age=0
+
+[379569][V][Parsing.cpp:226] _parseRequest(): headerName: Authorization
+
+[379575][V][Parsing.cpp:227] _parseRequest(): headerValue: Basic YWRtaW46TWl0bGFiNzAzLTI=
+
+[379584][V][Parsing.cpp:226] _parseRequest(): headerName: Upgrade-Insecure-Requests
+
+[379591][V][Parsing.cpp:227] _parseRequest(): headerValue: 1
+
+[379597][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[379602][V][Parsing.cpp:227] _parseRequest(): headerValue: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+
+[379619][V][Parsing.cpp:226] _parseRequest(): headerName: Accept
+
+[379624][V][Parsing.cpp:227] _parseRequest(): headerValue: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+
+[379641][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[379647][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip, deflate
+
+[379654][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Language
+
+[379660][V][Parsing.cpp:227] _parseRequest(): headerValue: en-US,en;q=0.9
+
+[379666][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[379671][V][Parsing.cpp:237] _parseRequest(): Request: /config
+
+[379677][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+Configuration page requested.
+
+[379693][W][WebServer.cpp:436] send(): content length is zero
+
+Rendering parameters:
+
+[iwcSys]
+
+|-- 'iwcThingName' with value: 'ESP32CAM-a0b8d37ce5a4'
+
+|-- 'iwcApPassword' with value: <hidden>
+
+|-- [iwcWifi0]
+
+|   |-- 'iwcWifiSsid' with value: 'MITLAB703'
+
+|   \-- 'iwcWifiPassword' with value: <hidden>
+
+\-- 'iwcApTimeout' with value: '30'
+
+[iwcCustom]
+
+|-- [board]
+
+|   \-- 'bt' with value: 'ESP32CAM'
+
+|-- [camera]
+
+|   |-- 'fd' with value: '100'
+
+|   |-- 'fs' with value: 'QQVGA (160x120)'
+
+|   |-- 'q' with value: '12'
+
+|   |-- 'eps' with value: '0'
+
+|   |-- 'fb' with value: '1'
+
+|   |-- 'b' with value: '0'
+
+|   |-- 'c' with value: '0'
+
+|   |-- 's' with value: '0'
+
+|   |-- 'e' with value: 'Normal'
+
+|   |-- 'wb' with value: '1'
+
+|   |-- 'awbg' with value: '1'
+
+|   |-- 'wbm' with value: 'Auto'
+
+|   |-- 'ec' with value: '1'
+
+|   |-- 'aec2' with value: '1'
+
+|   |-- 'ael' with value: '0'
+
+|   |-- 'aecv' with value: '300'
+
+|   |-- 'gc' with value: '1'
+
+|   |-- 'agcg' with value: '0'
+
+|   |-- 'gcl' with value: '2X'
+
+|   |-- 'bpc' with value: '0'
+
+|   |-- 'wpc' with value: '1'
+
+|   |-- 'rg' with value: '1'
+
+|   |-- 'lenc' with value: '1'
+
+|   |-- 'hm' with value: '0'
+
+|   |-- 'vm' with value: '0'
+
+|   |-- 'dcw' with value: '1'
+
+|   \-- 'cb' with value: '0'
+
+\-- [io]
+
+    \-- 'li' with value: '0'
+
+[380148][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[380184][V][Parsing.cpp:122] _parseRequest(): method: GET url: /favicon.ico search: 
+
+[380184][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[380186][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.111.14
+
+[380192][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[380198][V][Parsing.cpp:227] _parseRequest(): headerValue: keep-alive
+
+[380205][V][Parsing.cpp:226] _parseRequest(): headerName: Authorization
+
+[380211][V][Parsing.cpp:227] _parseRequest(): headerValue: Basic YWRtaW46TWl0bGFiNzAzLTI=
+
+[380219][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[380225][V][Parsing.cpp:227] _parseRequest(): headerValue: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+
+[380241][V][Parsing.cpp:226] _parseRequest(): headerName: Accept
+
+[380247][V][Parsing.cpp:227] _parseRequest(): headerValue: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+
+[380257][V][Parsing.cpp:226] _parseRequest(): headerName: Referer
+
+[380263][V][Parsing.cpp:227] _parseRequest(): headerValue: http://192.168.111.14/config
+
+[380271][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[380277][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip, deflate
+
+[380283][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Language
+
+[380290][V][Parsing.cpp:227] _parseRequest(): headerValue: en-US,en;q=0.9
+
+[380296][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[380301][V[Parsing.cpp:237] _parseRequest(): Request: /favicon.ico
+
+[380307][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[380313][E][WebServer.cpp:649] _handleRequest(): request handler not found
+
+Requested a non-existing page '/favicon.ico'
+
+[468308][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[468309][V][Parsing.cpp:122] _parseRequest(): method: POST url: /config search: 
+
+[468313][V][Parsing.cpp:154] _parseRequest(): headerName: Host
+
+[468318][V][Parsing.cpp:155] _parseRequest(): headerValue: 192.168.111.14
+
+[468325][V][Parsing.cpp:154] _parseRequest(): headerName: Connection
+
+[468331][V][Parsing.cpp:155] _parseRequest(): headerValue: keep-alive
+
+[468337][V][Parsing.cpp:154] _parseRequest(): headerName: Content-Length
+
+[468343][V][Parsing.cpp:155] _parseRequest(): headerValue: 347
+
+[468349][V][Parsing.cpp:154] _parseRequest(): headerName: Cache-Control
+
+[468355][V][Parsing.cpp:155] _parseRequest(): headerValue: max-age=0
+
+[468362][V][Parsing.cpp:154] _parseRequest(): headerName: Authorization
+
+[468368][V][Parsing.cpp:155] _parseRequest(): headerValue: Basic YWRtaW46TWl0bGFiNzAzLTI=
+
+[468376][V][Parsing.cpp:154] _parseRequest(): headerName: Upgrade-Insecure-Requests
+
+[468383][V][Parsing.cpp:155] _parseRequest(): headerValue: 1
+
+[468388][V][Parsing.cpp:154] _parseRequest(): headerName: Origin
+
+[468394][V][Parsing.cpp:155] _parseRequest(): headerValue: http://192.168.111.14
+
+[468401][V][Parsing.cpp:154] _parseRequest(): headerName: Content-Type
+
+[468407][V][Parsing.cpp:155] _parseRequest(): headerValue: application/x-www-form-urlencoded
+
+[468416][V][Parsing.cpp:154] _parseRequest(): headerName: User-Agent
+
+[468422][V][Parsing.cpp:155] _parseRequest(): headerValue: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+
+[468439][V][Parsing.cpp:154] _parseRequest(): headerName: Accept
+
+[468444][V][Parsing.cpp:155] _parseRequest(): headerValue: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+
+[468460][V][Parsing.cpp:154] _parseRequest(): headerName: Referer
+
+[468466][V][Parsing.cpp:155] _parseRequest(): headerValue: http://192.168.111.14/config
+
+[468474][V][Parsing.cpp:154] _parseRequest(): headerName: Accept-Encoding
+
+[468480][V][Parsing.cpp:155] _parseRequest(): headerValue: gzip, deflate
+
+[468487][V][Parsing.cpp:154] _parseRequest(): headerName: Accept-Language
+
+[468493][V][Parsing.cpp:155] _parseRequest(): headerValue: en-US,en;q=0.9
+
+[468500][V][Parsing.cpp:254] _parseArguments(): args: iotSave=true&iwcThingName=ESP32CAM&iwcApPassword=&iwcWifiSsid=MITLAB703&iwcWifiPassword=Mitlab703-2&iwcApTimeout=30&bt=AI+THINKER&fd=10&fs=SVGA+%28800x600%29&q=12&fb=1&b=0&c=0&s=0&e=Normal&wb=selected&awbg=selected&wbm=Auto&ec=selected&aec2=selected&ael=0&aecv=300&gc=selected&agcg=0&gcl=2X&wpc=selected&rg=selected&lenc=selected&dcw=selected&li=0
+
+[468534][V][Parsing.cpp:272] _parseArguments(): args count: 30
+
+[468540][V][Parsing.cpp:280] _parseArguments(): pos 0 =@7 &@12
+
+[468546][V][Parsing.cpp:291] _parseArguments(): arg 0 key: iotSave value: true
+
+[468552][V][Parsing.cpp:280] _arseArguments(): pos 13 =@25 &@34
+
+[468558][V][Parsing.cpp:291] _parseArguments(): arg 1 key: iwcThingName value: ESP32CAM
+
+[468566][V][Parsing.cpp:280] _parseArguments(): pos 35 =@48 &@49
+
+[468572][V][Parsing.cpp:291] _parseArguments(): arg 2 key: iwcApPassword value: 
+
+[468579][V][Parsing.cpp:280] _parseArguments(): pos 50 =@61 &@71
+
+[468584][V][Parsing.cpp:291] _parseArguments(): arg 3 key: iwcWifiSsid value: MITLAB703
+
+[468592][V][Parsing.cpp:280] _parseArguments(): pos 72 =@87 &@99
+
+[468598][V][Parsing.cpp:291] _parseArguments(): arg 4 key: iwcWifiPassword value: Mitlab703-2
+
+[468606][V][Parsing.cpp:280] _parseArguments(): pos 100 =@112 &@115
+
+[468612][V][Parsing.cpp:291] _parseArguments(): arg 5 key: iwcApTimeout value: 30
+
+[468619][V][Parsing.cpp:280] _parseArguments(): pos 116 =@118 &@129
+
+[468625][V][Parsing.cpp:291] _parseArguments(): arg 6 key: bt value: AI THINKER
+
+[468632][V][Parsing.cpp:280] _parseArguments(): pos 130 =@132 &@135
+
+[468638][V][Parsing.cpp:291] _parseArguments(): arg 7 key: fd value: 10
+
+[468645][V][Parsing.cpp:280] _parseArguments(): pos 136 =@138 &@157
+
+[468651][V][Parsing.cpp:291] _parseArguments(): arg 8 key: fs value: SVGA (800x600)
+
+[468658][V][Parsing.cpp:280] _parseArguments(): pos 158 =@159 &@162
+
+[468664][V][Parsing.cpp:291] _parseArguments(): arg 9 key: q value: 12
+
+[468670][V][Parsing.cpp:280] _parseArguments(): pos 163 =@165 &@167
+
+[468676][V][Parsing.cpp:291] _parseArguments(): arg 10 key: fb value: 1
+
+[468683][V][Parsing.cpp:280] _parseArguments(): pos 168 =@169 &@171
+
+[468689][V][Parsing.cpp:291] _parseArguments(): arg 11 key: b value: 0
+
+[468695][V][Parsing.cpp:280] _parseArguments(): pos 172 =@173 &@175
+
+[468701][V][Parsing.cpp:291] _parseArguments(): arg 12 key: c value: 0
+
+[468707][V][Parsing.cpp:280] _parseArguments(): pos 176 =@177 &@179
+
+[468713][V][Parsing.cpp:291] _parseArguments(): arg 13 key: s value: 0
+
+[468719][V][Parsing.cpp:280] _parseArguments(): pos 180 =@181 &@188
+
+[468725][V][Parsing.cpp:291] _parseArguments(): arg 14 key: e value: Normal
+
+[468732][V][Parsing.cpp:280] _parseArguments(): pos 189 =@191 &@200
+
+[468738][V][Parsing.cpp:291] _parseArguments(): arg 15 key: wb value: selected
+
+[468745][V][Parsing.cpp:280] _parseArguments(): pos 201 =@205 &@214
+
+[468751][V][Parsing.cpp:291] _parseArguments(): arg 16 key: awbg value: selected
+
+[468758][V][Parsing.cpp:280] _parseArguments(): pos 215 =@218 &@223
+
+[468764][V][Parsing.cpp:291] _parseArguments(): arg 17 key: wbm value: Auto
+
+[468771][V][Parsing.cpp:280] _parseArguments(): pos 224 =@226 &@235
+
+[468777][V][Parsing.cpp:291] _parseArguments(): arg 18 key: ec value: selected
+
+[468784][V][Parsing.cpp:280] _parseArguments(): pos 236 =@240 &@249
+
+[468790][V][Parsing.cpp:291] _parseArguments(): arg 19 key: aec2 value: selected
+
+[468797][V][Parsing.cpp:280] _parseArguments(): pos 250 =@253 &@255
+
+[468803][V][Parsing.cpp:291] _parseArguments(): arg 20 key: ael value: 0
+
+[468809][V][Parsing.cpp:280] _parseArguments(): pos 256 =@260 &@264
+
+[468815][V][Parsing.cpp:291] _parseArguments(): arg 21 key: aecv value: 300
+
+[468822][V][Parsing.cpp:280] _parseArguments(): pos 265 =@267 &@276
+
+[468828][V][Parsing.cpp:291] _parseArguments(): arg 22 key: gc value: selected
+
+[468835][V][Parsing.cpp:280] _parseArguments(): pos 277 =@281 &@283
+
+[468841][V][Parsing.cpp:291] _parseArguments(): arg 23 key: agcg value: 0
+
+[468847][V][Parsing.cpp:280] _parseArguments(): pos 284 =@287 &@290
+
+[468853][V][Parsing.cpp:291] _parseArguments(): arg 24 key: gcl value: 2X
+
+[468860][V][Parsing.cpp:280] _parseArguments(): pos 291 =@294 &@303
+
+[468866][V][Parsing.cpp:291] _parseArguments(): arg 25 key: wpc value: selected
+
+[468873][V][Parsing.cpp:280] _parseArguments(): pos 304 =@306 &@315
+
+[468879][V][Parsing.cpp:291] _parseArguments(): arg 26 key: rg value: selected
+
+[468886][V][Parsing.cpp:280] _parseArguments(): pos 316 =@320 &@329
+
+[468892][V][Parsing.cpp:291] _parseArguments(): arg 27 key: lenc value: selected
+
+[468899][V][Parsing.cpp:280] _parseArguments(): pos 330 =@333 &@342
+
+[468905][V][Parsing.cpp:291] _parseArguments(): arg 28 key: dcw value: selected
+
+[468912][V][Parsing.cpp:280] _parseArguments(): pos 343 =@345 &@-1
+
+[468918][V][Parsing.cpp:291] _parseArguments(): arg 29 key: li value: 0
+
+[468924][V][Parsing.cpp:298] _parseArguments(): args count: 30
+
+[468930][V][Parsing.cpp:197] _parseRequest(): Plain: iotSave=true&iwcThingName=ESP32CAM&iwcApPassword=&iwcWifiSsid=MITLAB703&iwcWifiPassword=Mitlab703-2&iwcApTimeout=30&bt=AI+THINKER&fd=10&fs=SVGA+%28800x600%29&q=12&fb=1&b=0&c=0&s=0&e=Normal&wb=selected&awbg=selected&wbm=Auto&ec=selected&aec2=selected&ael=0&aecv=300&gc=selected&agcg=0&gcl=2X&wpc=selected&rg=selected&lenc=selected&dcw=selected&li=0
+
+[468965][V][Parsing.cpp:237] _parseRequest(): Request: /config
+
+[468970][V][Parsing.cpp:238] _parseRequest():  Arguments: iotSave=true&iwcThingName=ESP32CAM&iwcApPassword=&iwcWifiSsid=MITLAB703&iwcWifiPassword=Mitlab703-2&iwcApTimeout=30&bt=AI+THINKER&fd=10&fs=SVGA+%28800x600%29&q=12&fb=1&b=0&c=0&s=0&e=Normal&wb=selected&awbg=selected&wbm=Auto&ec=selected&aec2=selected&ael=0&aecv=300&gc=selected&agcg=0&gcl=2X&wpc=selected&rg=selected&lenc=selected&dcw=selected&li=0
+
+Form validation result is: positive
+
+Updating configuration
+
+[iwcSys]
+
+|-- 'iwcThingName' with value: 'ESP32CAM-a0b8d37ce5a4'
+
+|-- 'iwcApPassword' with value: <hidden>
+
+|-- [iwcWifi0]
+
+|   |-- 'iwcWifiSsid' with value: 'MITLAB703'
+
+|   \-- 'iwcWifiPassword' with value: <hidden>
+
+\-- 'iwcApTimeout' with value: '30'
+
+[iwcCustom]
+
+|-- [board]
+
+|   \-- 'bt' with value: 'ESP32CAM'
+
+|-- [camera]
+
+|   |-- 'fd' with value: '100'
+
+|   |-- 'fs' with value: 'QQVGA (160x120)'
+
+|   |-- 'q' with value: '12'
+
+|   |-- 'eps' with value: '0'
+
+|   |-- 'fb' with value: '1'
+
+|   |-- 'b' with value: '0'
+
+|   |-- 'c' with value: '0'
+
+|   |-- 's' with value: '0'
+
+|   |-- 'e' with value: 'Normal'
+
+|   |-- 'wb' with value: '1'
+
+|   |-- 'awbg' with value: '1'
+
+|   |-- 'wbm' with value: 'Auto'
+
+|   |-- 'ec' with value: '1'
+
+|   |-- 'aec2' with value: '1'
+
+|   |-- 'ael' with value: '0'
+
+|   |-- 'aecv' with value: '300'
+
+|   |-- 'gc' with value: '1'
+
+|   |-- 'agcg' with value: '0'
+
+|   |-- 'gcl' with value: '2X'
+
+|   |-- 'bpc' with value: '0'
+
+|   |-- 'wpc' with value: '1'
+
+|   |-- 'rg' with value: '1'
+
+|   |-- 'lenc' with value: '1'
+
+|   |-- 'hm' with value: '0'
+
+|   |-- 'vm' with value: '0'
+
+|   |-- 'dcw' with value: '1'
+
+|   \-- 'cb' with value: '0'
+
+\-- [io]
+
+    \-- 'li' with value: '0'
+
+
+
+iwcThingName: ESP32CAM
+
+iwcApPassword: <was not changed>
+
+iwcWifiSsid: MITLAB703
+
+iwcWifiPassword: <updated>
+
+iwcApTimeout: 30
+
+bt: AI THINKER
+
+fd: 10
+
+fs: SVGA (800x600)
+
+q: 12
+
+eps: not selected
+
+fb: 1
+
+b: 0
+
+c: 0
+
+s: 0
+
+e: Normal
+
+wb: selected
+
+awbg: selected
+
+wbm: Auto
+
+ec: selected
+
+aec2: selected
+
+ael: 0
+
+aecv: 300
+
+gc: selected
+
+agcg: 0
+
+gcl: 2X
+
+bpc: not selected
+
+wpc: selected
+
+rg: selected
+
+lenc: selected
+
+hm: not selected
+
+vm: not selected
+
+dcw: selected
+
+cb: not selected
+
+li: 0
+
+Config version: 1.5
+
+Config size: 455
+
+Saving configuration
+
+[iwcAll]
+
+|-- [iwcSys]
+
+|   |-- 'iwcThingName' with value: 'ESP32CAM'
+
+|   |-- 'iwcApPassword' with value: <hidden>
+
+|   |-- [iwcWifi0]
+
+|   |   |-- 'iwcWifiSsid' with value: 'MITLAB703'
+
+|   |   \-- 'iwcWifiPassword' with value: <hidden>
+
+|   \-- 'iwcApTimeout' with value: '30'
+
+|-- [iwcCustom]
+
+|   |-- [board]
+
+|   |   \-- 'bt' with value: 'AI THINKER'
+
+|   |-- [camera]
+
+|   |   |-- 'fd' with value: '10'
+
+|   |   |-- 'fs' with value: 'SVGA (800x600)'
+
+|   |   |-- 'q' with value: '12'
+
+|   |   |-- 'eps' with value: '0'
+
+|   |   |-- 'fb' with value: '1'
+
+|   |   |-- 'b' with value: '0'
+
+|   |   |-- 'c' with value: '0'
+
+|   |   |-- 's' with value: '0'
+
+|   |   |-- 'e' with value: 'Normal'
+
+|   |   |-- 'wb' with value: '1'
+
+|   |   |-- 'awbg' with value: '1'
+
+|   |   |-- 'wbm' with value: 'Auto'
+
+|   |   |-- 'ec' with value: '1'
+
+|   |   |-- 'aec2' with value: '1'
+
+|   |   |-- 'ael' with value: '0'
+
+|   |   |-- 'aecv' with value: '300'
+
+|   |   |-- 'gc' with value: '1'
+
+|   |   |-- 'agcg' with value: '0'
+
+|   |   |-- 'gcl' with value: '2X'
+
+|   |   |-- 'bpc' with value: '0'
+
+|   |   |-- 'wpc' with value: '1'
+
+|   |   |-- 'rg' with value: '1'
+
+|   |   |-- 'lenc' with value: '1'
+
+|   |   |-- 'hm' with value: '0'
+
+|   |   |-- 'vm' with value: '0'
+
+|   |   |-- 'dcw' with value: '1'
+
+|   |   \-- 'cb' with value: '0'
+
+|   \-- [io]
+
+|       \-- 'li' with value: '0'
+
+\-- [hidden]
+
+
+
+[469298][V][main.cpp:374] on_config_saved(): on_config_saved
+
+[469298][V][esp32-hal-ledc.c:231] analogWrite(): GPIO 4 - Using Channel 15, Value = 0
+
+[469301][E][main.cpp:323] update_camera_settings(): Unable to get camera sensor
+
+[469315][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[516848][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[517047][V][Parsing.cpp:122] _parseRequest(): method: GET url: / search: 
+
+[517048][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[517048][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.111.14
+
+[517055][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[517061][V][Parsing.cpp:227] _parseRequest(): headerValue: keep-alive
+
+[517067][V][Parsing.cpp:226] _parseRequest(): headerName: Authorization
+
+[517074][V][Parsing.cpp:227] _parseRequest(): headerValue: Basic YWRtaW46TWl0bGFiNzAzLTI=
+
+[517082][V][Parsing.cpp:226] _parseRequest(): headerName: Upgrade-Insecure-Requests
+
+[517089][V][Parsing.cpp:227] _parseRequest(): headerValue: 1
+
+[517095][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[517100][V][Parsing.cpp:227] _parseRequest(): headerValue: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+
+[517117][V][Parsing.cpp:226] _parseRequest(): headerName: Accept
+
+[517122][V][Parsing.cpp:227] _parseRequest(): headerValue: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+
+[517139][V][Parsing.cpp:226] _parseRequest(): headerName: Referer
+
+[517144][V][Parsing.cpp:227] _parseRequest(): headerValue: http://192.168.111.14/config
+
+[517152][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[517159][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip, deflate
+
+[517165][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Language
+
+[517172][V][Parsing.cpp:227] _parseRequest(): headerValue: en-US,en;q=0.9
+
+[517178][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[517183][V][Parsing.cpp:237] _parseRequest(): Request: /
+
+[517188][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[517193][V][main.cpp:88] handle_root(): Handle root
+
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+
+
+Core  1 register dump:
+
+PC      : 0x40094bfb  PS      : 0x00060d30  A0      : 0x80094e50  A1      : 0x3ffb1ac0  
+
+A2      : 0xffffffff  A3      : 0x00000000  A4      : 0x0000001c  A5      : 0x3ffb1b40  
+
+A6      : 0x00000000  A7      : 0x00000001  A8      : 0xffffffff  A9      : 0x00000009  
+
+A10     : 0x00000000  A11     : 0x05c97b5d  A12     : 0x05c97b5d  A13     : 0x3ffc6f98  
+
+A14     : 0x00060d20  A15     : 0x00000001  SAR     : 0x00000014  EXCCAUSE: 0x0000001c  
+
+EXCVADDR: 0x00000013  LBEG    : 0x4008b464  LEND    : 0x4008b46f  LCOUNT  : 0x00000000  
+
+
+
+
+
+Backtrace: 0x40094bf8:0x3ffb1ac0 0x40094e4d:0x3ffb1ae0 0x400950cf:0x3ffb1b00 0x4011522e:0x3ffb1b20 0x400e7b26:0x3ffb1b60 0x400d7557:0x3ffb1ba0 0x4017a649:0x3ffb20d0 0x400e0a62:0x3ffb20f0 0x400e0b09:0x3ffb2110 0x400e0bef:0x3ffb2150 0x400e0e2a:0x3ffb21c0 0x4017ae01:0x3ffb2230 0x400e59a7:0x3ffb2250 0x400d6dee:0x3ffb2270 0x400eafa1:0x3ffb2290
+
+
+
+
+
+
+
+
+
+ELF file SHA256: c12a36cef630ecfb
+
+
+
+Rebooting...
+
+ets Jun  8 2016 00:22:57
+
+
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+
+configsip: 0, SPIWP:0xee
+
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+
+mode:DIO, clock div:2
+
+load:0x3fff0030,len:1184
+
+load:0x40078000,len:13192
+
+load:0x40080400,len:3028
+
+entry 0x400805e4
+
+[     4][V][WiFiServer.h:42] WiFiServer(): WiFiServer::WiFiServer(port=80, ...)
+
+[     4][V][WebServer.cpp:87] WebServer(): WebServer::Webserver(port=80)
+
+[    33][D][esp32-hal-cpu.c:244] setCpuFrequencyMhz(): PLL: 480 / 2 = 240 Mhz, APB: 80000000 Hz
+
+[   481][I][esp32-hal-psram.c:96] psramInit(): PSRAM enabled
+
+[   507][V][[   508][I][main.cpp:400] setup(): CPU Freq: 240 Mhz
+
+[   508][I][main.cpp:401] setup(): Free heap: 248600 bytes
+
+[   509][I][main.cpp:402] setup(): SDK version: v4.4.4
+
+[   512][I][main.cpp:403] setup(): Starting ESP32CAM-RTSP...
+
+[   517][V][main.cpp:408] setup(): PSRAM found and initialized
+
+Config version: 1.5
+
+Config size: 455
+
+Loading configurations
+
+[iwcAll]
+
+|-- [iwcSys]
+
+|   |-- 'iwcThingName' with value: 'ESP32CAM'
+
+|   |-- 'iwcApPassword' with value: <hidden>
+
+|   |-- [iwcWifi0]
+
+|   |   |-- 'iwcWifiSsid' with value: 'MITLAB703'
+
+|   |   \-- 'iwcWifiPassword' with value: <hidden>
+
+|   \-- 'iwcApTimeout' with value: '30'
+
+|-- [iwcCustom]
+
+|   |-- [board]
+
+|   |   \-- 'bt' with value: 'AI THINKER'
+
+|   |-- [camera]
+
+|   |   |-- 'fd' with value: '10'
+
+|   |   |-- 'fs' with value: 'SVGA (800x600)'
+
+|   |   |-- 'q' with value: '12'
+
+|   |   |-- 'eps' with value: '0'
+
+|   |   |-- 'fb' with value: '1'
+
+|   |   |-- 'b' with value: '0'
+
+|   |   |-- 'c' with value: '0'
+
+|   |   |-- 's' with value: '0'
+
+|   |   |-- 'e' with value: 'Normal'
+
+|   |   |-- 'wb' with value: '1'
+
+|   |   |-- 'awbg' with value: '1'
+
+|   |   |-- 'wbm' with value: 'Auto'
+
+|   |   |-- 'ec' with value: '1'
+
+|   |   |-- 'aec2' with value: '1'
+
+|   |   |-- 'ael' with value: '0'
+
+|   |   |-- 'aecv' with value: '300'
+
+|   |   |-- 'gc' with value: '1'
+
+|   |   |-- 'agcg' with value: '0'
+
+|   |   |-- 'gcl' with value: '2X'
+
+|   |   |-- 'bpc' with value: '0'
+
+|   |   |-- 'wpc' with value: '1'
+
+|   |   |-- 'rg' with value: '1'
+
+|   |   |-- 'lenc' with value: '1'
+
+|   |   |-- 'hm' with value: '0'
+
+|   |   |-- 'vm' with value: '0'
+
+|   |   |-- 'dcw' with value: '1'
+
+|   |   \-- 'cb' with value: '0'
+
+|   \-- [io]
+
+|       \-- 'li' with value: '0'
+
+\-- [hidden]
+
+[   656][V][main.cpp:286] initialize_camera(): initialize_camera
+
+[   656][I][main.cpp:287] initialize_camera(): Camera config: AI THINKER
+
+[   662][I][main.cpp:293] initialize_camera(): Frame size: SVGA (800x600)
+
+[   668][I][main.cpp:295] initialize_camera(): JPEG quality: 12
+
+[   674][I][main.cpp:296] initialize_camera(): Frame duration: 10 ms
+
+[   680][I][main.cpp:300] initialize_camera(): Enable PSRAM: 0
+
+[   685][I][main.cpp:301] initialize_camera(): Frame buffers: 1
+
+[   691][I][main.cpp:312] initialize_camera(): PSRAM disabled
+
+[   926][V][esp32-hal-ledc.c:231] analogWrite(): GPIO 4 - Using Channel 15, Value = 0
+
+State changing from: 0 to 2
+
+[   945][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 0 - WIFI_READY
+
+Setting up AP: ESP32CAM
+
+Use password: <hidden>
+
+[  1036][V][WiFiGeneric.cpp:392] _arduino_event_cb(): AP Started
+
+[  1037][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 10 - AP_START
+
+AP IP address: 192.168.4.1
+
+[  1609][V][WiFiGeneric.cpp:395] _arduino_event_cb(): AP Stopped
+
+[  1610][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 11 - AP_STOP
+
+[  1610][V][WiFiGeneric.cpp:392] _arduino_event_cb(): AP Started
+
+[  1617][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 10 - AP_START
+
+AP timeout (ms): 30000
+
+State changed from: 0 to 2
+
+State changing from: 2 to 3
+
+[ 31639][V][WiFiGeneric.cpp:395] _arduino_event_cb(): AP Stopped
+
+[ 31639][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 11 - AP_STOP
+
+[ 31643][V][WiFiGeneric.cpp:392] _arduino_event_cb(): AP Started
+
+E (45650) wifi_init_default: esp_wifi_get_mac failed with 12289
+
+Connecting to [MITLAB703[ 31652][V][WiFiGeneric.cpp:395] _arduino_event_cb(): AP Stopped
+
+[ 31646][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 10 - AP_START
+
+[ 31667][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 11 - AP_STOP
+
+] (password is hidden)
+
+WiFi timeout (ms): 30000
+
+[ 31701][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 0 - WIFI_READY
+
+[ 31706][V][WiFiGeneric.cpp:340] _arduino_event_cb(): STA Started
+
+[ 31708][V][WiFiGeneric.cpp:97] set_esp_interface_ip(): Configuring Station static IP: 0.0.0.0, MASK: 0.0.0.0, GW: 0.0.0.0
+
+[ 31708][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 2 - STA_START
+
+State changed from: 2 to 3
+
+[ 31903][V][WiFiGeneric.cpp:355] _arduino_event_cb(): STA Connected: SSID: MITLAB703, BSSID: 40:ee:15:c8:8e:1c, Channel: 1, Auth: WPA2_PSK
+
+[ 31905][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 4 - STA_CONNECTED
+
+[ 31927][V][WiFiGeneric.cpp:369] _arduino_event_cb(): STA Got New IP:192.168.111.14
+
+[ 31927][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 7 - STA_GOT_IP
+
+[ 31931][D][WiFiGeneric.cpp:1098] _eventCallback(): STA IP: 192.168.111.14, MASK: 255.255.255.0, GW: 192.168.111.1
+
+WiFi connected
+
+IP address: 192.168.111.14
+
+State changing from: 3 to 4
+
+[ 35055][W][ESPmDNS.cpp:222] queryService(): No results found!
+
+Active mDNS services: 0 
+Accepting connection
+
+[ 35060][V][main.cpp:362] on_connected(): on_connected
+
+[ 35074][I][ArduinoOTA.cpp:141] begin(): OTA server at: esp32-a4e57cd3b8a0.local:3232
+
+[ 35075][V][main.cpp:353] start_rtsp_server(): start_rtsp_server
+
+[ 35077][V][WiFiServer.h:42] WiFiServer(): WiFiServer::WiFiServer(port=554, ...)
+
+[ 35084][I][rtsp_server.cpp:9] rtsp_server(): Starting RTSP server
+
+State changed from: 3 to 4
+
+[ 36203][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[ 36204][V][Parsing.cpp:122] _parseRequest(): method: GET url: / search: 
+
+[ 36206][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[ 36212][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.111.14
+
+[ 36218][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[ 36224][V][Parsing.cpp:227] _parseRequest(): headerValue: keep-alive
+
+[ 36231][V][Parsing.cpp:226] _parseRequest(): headerName: Cache-Control
+
+[ 36237][V][Parsing.cpp:227] _parseRequest(): headerValue: max-age=0
+
+[ 36243][V][Parsing.cpp:226] _parseRequest(): headerName: Authorization
+
+[ 36249][V][Parsing.cpp:227] _parseRequest(): headerValue: Basic YWRtaW46TWl0bGFiNzAzLTI=
+
+[ 36257][V][Parsing.cpp:226] _parseRequest(): headerName: Upgrade-Insecure-Requests
+
+[ 36265][V][Parsing.cpp:227] _parseRequest(): headerValue: 1
+
+[ 36271][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[ 36276][V][Parsing.cpp:227] _parseRequest(): headerValue: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+
+[ 36293][V][Parsing.cpp:226] _parseRequest(): headerName: Accept
+
+[ 36298][V][Parsing.cpp:227] _parseRequest(): headerValue: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+
+[ 36315][V][Parsing.cpp:226] _parseRequest(): headerName: Referer
+
+[ 36320][V][Parsing.cpp:227] _parseRequest(): headerValue: http://192.168.111.14/config
+
+[ 36328][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[ 36334][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip, deflate
+
+[ 36341][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Language
+
+[ 36347][V][Parsing.cpp:227] _parseRequest(): headerValue: en-US,en;q=0.9
+
+[ 36354][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[ 36359][V][Parsing.cpp:237] _parseRequest(): Request: /
+
+[ 36364][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[ 36369][V][main.cpp:88] handle_root(): Handle root
+
+[ 36540][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[ 41544][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[ 45206][V][Parsing.cpp:122] _parseRequest(): method: GET url: /config search: 
+
+[ 45207][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[ 45208][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.111.14
+
+[ 45214][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[ 45220][V][Parsing.cpp:227] _parseRequest(): headerValue: keep-alive
+
+[ 45227][V][Parsing.cpp:226] _parseRequest(): headerName: Cache-Control
+
+[ 45233][V][Parsing.cpp:227] _parseRequest(): headerValue: max-age=0
+
+[ 45239][V][Parsing.cpp:226] _parseRequest(): headerName: Upgrade-Insecure-Requests
+
+[ 45246][V][Parsing.cpp:227] _parseRequest(): headerValue: 1
+
+[ 45252][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[ 45258][V][Parsing.cpp:227] _parseRequest(): headerValue: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+
+[ 45273][V][Parsing.cpp:226] _parseRequest(): headerName: Accept
+
+[ 45278][V][Parsing.cpp:227] _parseRequest(): headerValue: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+
+[ 45296][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[ 45302][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip, deflate
+
+[ 45309][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Language
+
+[ 45315][V][Parsing.cpp:227] _parseRequest(): headerValue: en-US,en;q=0.9
+
+[ 45321][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[ 45326][V][Parsing.cpp:237] _parseRequest(): Request: /config
+
+[ 45332][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+Requesting authentication.
+
+[ 45348][W][WebServer.cpp:436] send(): content length is zero
+
+[ 45354][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[ 45355][V][Parsing.cpp:122] _parseRequest(): method: GET url: /config search: 
+
+[ 45360][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[ 45365][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.111.14
+
+[ 45372][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[ 45378][V][Parsing.cpp:227] _parseRequest(): headerValue: keep-alive
+
+[ 45384][V][Parsing.cpp:226] _parseRequest(): headerName: Cache-Control
+
+[ 45391][V][Parsing.cpp:227] _parseRequest(): headerValue: max-age=0
+
+[ 45397][V][Parsing.cpp:226] _parseRequest(): headerName: Upgrade-Insecure-Requests
+
+[ 45404][V][Parsing.cpp:227] _parseRequest(): headerValue: 1
+
+[ 45410][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[ 45415][V][Parsing.cpp:227] _parseRequest(): headerValue: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+
+[ 45431][V][Parsing.cpp:226] _parseRequest(): headerName: Accept
+
+[ 45436][V][Parsing.cpp:227] _parseRequest(): headerValue: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+
+[ 45453][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[ 45460][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip, deflate
+
+[ 45466][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Language
+
+[ 45473][V][Parsing.cpp:227] _parseRequest(): headerValue: en-US,en;q=0.9
+
+[ 45479][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[ 45484][V][Parsing.cpp:237] _parseRequest(): Request: /config
+
+[ 45489][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+Requesting authentication.
+
+[ 45506][W][WebServer.cpp:436] send(): content length is zero
+
+[ 45511][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[ 50516][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[ 50837][V][Parsing.cpp:122] _parseRequest(): method: GET url: /config search: 
+
+[ 50838][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[ 50839][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.111.14
+
+[ 50846][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[ 50851][V][Parsing.cpp:227] _parseRequest(): headerValue: keep-alive
+
+[ 50858][V][Parsing.cpp:226] _parseRequest(): headerName: Authorization
+
+[ 50864][V][Parsing.cpp:227] _parseRequest(): headerValue: Basic YWRtaW46TWl0bGFiNzAzLTI=
+
+[ 50872][V][Parsing.cpp:226] _parseRequest(): headerName: Upgrade-Insecure-Requests
+
+[ 50879][V][Parsing.cpp:227] _parseRequest(): headerValue: 1
+
+[ 50885][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[ 50891][V][Parsing.cpp:227] _parseRequest(): headerValue: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+
+[ 50908][V][Parsing.cpp:226] _parseRequest(): headerName: Accept
+
+[ 50913][V][Parsing.cpp:227] _parseRequest(): headerValue: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+
+[ 50929][V][Parsing.cpp:226] _parseRequest(): headerName: Referer
+
+[ 50935][V][Parsing.cpp:227] _parseRequest(): headerValue: http://192.168.111.14/
+
+[ 50942][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[ 50949][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip, deflate
+
+[ 50955][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Language
+
+[ 50961][V][Parsing.cpp:227] _parseRequest(): headerValue: en-US,en;q=0.9
+
+[ 50968][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[ 50973][V][Parsing.cpp:237] _parseRequest(): Request: /config
+
+[ 50978][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+Configuration page requested.
+
+[ 50995][W][WebServer.cpp:436] send(): content length is zero
+
+Rendering parameters:
+
+[iwcSys]
+
+|-- 'iwcThingName' with value: 'ESP32CAM'
+
+|-- 'iwcApPassword' with value: <hidden>
+
+|-- [iwcWifi0]
+
+|   |-- 'iwcWifiSsid' with value: 'MITLAB703'
+
+|   \-- 'iwcWifiPassword' with value: <hidden>
+
+\-- 'iwcApTimeout' with value: '30'
+
+[iwcCustom]
+
+|-- [board]
+
+|   \-- 'bt' with value: 'AI THINKER'
+
+|-- [camera]
+
+|   |-- 'fd' with value: '10'
+
+|   |-- 'fs' with value: 'SVGA (800x600)'
+
+|   |-- 'q' with value: '12'
+
+|   |-- 'eps' with value: '0'
+
+|   |-- 'fb' with value: '1'
+
+|   |-- 'b' with value: '0'
+
+|   |-- 'c' with value: '0'
+
+|   |-- 's' with value: '0'
+
+|   |-- 'e' with value: 'Normal'
+
+|   |-- 'wb' with value: '1'
+
+|   |-- 'awbg' with value: '1'
+
+|   |-- 'wbm' with value: 'Auto'
+
+|   |-- 'ec' with value: '1'
+
+|   |-- 'aec2' with value: '1'
+
+|   |-- 'ael' with value: '0'
+
+|   |-- 'aecv' with value: '300'
+
+|   |-- 'gc' with value: '1'
+
+|   |-- 'agcg' with value: '0'
+
+|   |-- 'gcl' with value: '2X'
+
+|   |-- 'bpc' with value: '0'
+
+|   |-- 'wpc' with value: '1'
+
+|   |-- 'rg' with value: '1'
+
+|   |-- 'lenc' with value: '1'
+
+|   |-- 'hm' with value: '0'
+
+|   |-- 'vm' with value: '0'
+
+|   |-- 'dcw' with value: '1'
+
+|   \-- 'cb' with value: '0'
+
+\-- [io]
+
+    \-- 'li' with value: '0'
+
+[ 51400][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[ 59541][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[ 59564][V][Parsing.cpp:122] _parseRequest(): method: GET url: /config search: 
+
+[ 59565][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[ 59566][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.111.14
+
+[ 59572][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[ 59578][V][Parsing.cpp:227] _parseRequest(): headerValue: keep-alive
+
+[ 59585][V][Parsing.cpp:226] _parseRequest(): headerName: Cache-Control
+
+[ 59591][V][Parsing.cpp:227] _parseRequest(): headerValue: max-age=0
+
+[ 59597][V][Parsing.cpp:226] _parseRequest(): headerName: Upgrade-Insecure-Requests
+
+[ 59604][V][Parsing.cpp:227] _parseRequest(): headerValue: 1
+
+[ 59610][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[ 59616][V][Parsing.cpp:227] _parseRequest(): headerValue: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+
+[ 59631][V][Parsing.cpp:226] _parseRequest(): headerName: Accept
+
+[ 59636][V][Parsing.cpp:227] _parseRequest(): headerValue: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+
+[ 59654][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[ 59660][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip, deflate
+
+[ 59667][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Language
+
+[ 59673][V][Parsing.cpp:227] _parseRequest(): headerValue: en-US,en;q=0.9
+
+[ 59679][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[ 59684][V][Parsing.cpp:237] _parseRequest(): Request: /config
+
+[ 59690][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+Requesting authentication.
+
+[ 59706][W][WebServer.cpp:436] send(): content length is zero
+
+[ 59711][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[ 75940][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[ 75941][V][Parsing.cpp:122] _parseRequest(): method: POST url: /config search: 
+
+[ 75945][V][Parsing.cpp:154] _parseRequest(): headerName: Host
+
+[ 75950][V][Parsing.cpp:155] _parseRequest(): headerValue: 192.168.111.14
+
+[ 75957][V][Parsing.cpp:154] _parseRequest(): headerName: Connection
+
+[ 75963][V][Parsing.cpp:155] _parseRequest(): headerValue: keep-alive
+
+[ 75969][V][Parsing.cpp:154] _parseRequest(): headerName: Content-Length
+
+[ 75975][V][Parsing.cpp:155] _parseRequest(): headerValue: 352
+
+[ 75981][V][Parsing.cpp:154] _parseRequest(): headerName: Cache-Control
+
+[ 75987][V][Parsing.cpp:155] _parseRequest(): headerValue: max-age=0
+
+[ 75994][V][Parsing.cpp:154] _parseRequest(): headerName: Authorization
+
+[ 76000][V][Parsing.cpp:155] _parseRequest(): headerValue: Basic YWRtaW46TWl0bGFiNzAzLTI=
+
+[ 76008][V][Parsing.cpp:154] _parseRequest(): headerName: Upgrade-Insecure-Requests
+
+[ 76015][V][Parsing.cpp:155] _parseRequest(): headerValue: 1
+
+[ 76021][V][Parsing.cpp:154] _parseRequest(): headerName: Origin
+
+[ 76026][V][Parsing.cpp:155] _parseRequest(): headerValue: http://192.168.111.14
+
+[ 76034][V][Parsing.cpp:154] _parseRequest(): headerName: Content-Type
+
+[ 76039][V][Parsing.cpp:155] _parseRequest(): headerValue: application/x-www-form-urlencoded
+
+[ 76048][V][Parsing.cpp:154] _parseRequest(): headerName: User-Agent
+
+[ 76054][V][Parsing.cpp:155] _parseRequest(): headerValue: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+
+[ 76071][V][Parsing.cpp:154] _parseRequest(): headerName: Accept
+
+[ 76076][V][Parsing.cpp:155] _parseRequest(): headerValue: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+
+[ 76092][V][Parsing.cpp:154] _parseRequest(): headerName: Referer
+
+[ 76098][V][Parsing.cpp:155] _parseRequest(): headerValue: http://192.168.111.14/config
+
+[ 76106][V][Parsing.cpp:154] _parseRequest(): headerName: Accept-Encoding
+
+[ 76112][V][Parsing.cpp:155] _parseRequest(): headerValue: gzip, deflate
+
+[ 76119][V][Parsing.cpp:154] _parseRequest(): headerName: Accept-Language
+
+[ 76125][V][Parsing.cpp:155] _parseRequest(): headerValue: en-US,en;q=0.9
+
+[ 76132][V][Parsing.cpp:254] _parseArguments(): args: iotSave=true&iwcThingName=ESP32CAM-RTSP&iwcApPassword=&iwcWifiSsid=MITLAB703&iwcWifiPassword=Mitlab703-2&iwcApTimeout=30&bt=AI+THINKER&fd=10&fs=SVGA+%28800x600%29&q=12&fb=1&b=0&c=0&s=0&e=Normal&wb=selected&awbg=selected&wbm=Auto&ec=selected&aec2=selected&ael=0&aecv=300&gc=selected&agcg=0&gcl=2X&wpc=selected&rg=selected&lenc=selected&dcw=selected&li=0
+
+[ 76167][V][Parsing.cpp:272] _parseArguments(): args count: 30
+
+[ 76173][V][Parsing.cpp:280] _parseArguments(): pos 0 =@7 &@12
+
+[ 76178][V][Parsing.cpp:291] _parseArguments(): arg 0 key: iotSave value: true
+
+[ 76185][V][Parsing.cpp:280] _parseArguments(): pos 13 =@25 &@39
+
+[ 76191][V][Parsing.cpp:291] _parseArguments(): arg 1 key: iwcThingName value: ESP32CAM-RTSP
+
+[ 76199][V][Parsing.cpp:280] _parseArguments(): pos 40 =@53 &@54
+
+[ 76205][V][Parsing.cpp:291] _parseArguments(): arg 2 key: iwcApPassword value: 
+
+[ 76212][V][Parsing.cpp:280] _parseArguments(): pos 55 =@66 &@76
+
+[ 76217][V][Parsing.cpp:291] _parseArguments(): arg 3 key: iwcWifiSsid value: MITLAB703
+
+[ 76225][V][Parsing.cpp:280] _parseArguments(): pos 77 =@92 &@104
+
+[ 76231][V][Parsing.cpp:291] _parseArguments(): arg 4 key: iwcWifiPassword value: Mitlab703-2
+
+[ 76239][V][Parsing.cpp:280] _parseArguments(): pos 105 =@117 &@120
+
+[ 76245][V][Parsing.cpp:291] _parseArguments(): arg 5 key: iwcApTimeout value: 30
+
+[ 76252][V][Parsing.cpp:280] _parseArguments(): pos 121 =@123 &@134
+
+[ 76258][V][Parsing.cpp:291] _parseArguments(): arg 6 key: bt value: AI THINKER
+
+[ 76265][V][Parsing.cpp:280] _parseArguments(): pos 135 =@137 &@140
+
+[ 76271][V][Parsing.cpp:291] _parseArguments(): arg 7 key: fd value: 10
+
+[ 76278][V][Parsing.cpp:280] _parseArguments(): pos 141 =@143 &@162
+
+[ 76284][V][Parsing.cpp:291] _parseArguments(): arg 8 key: fs value: SVGA (800x600)
+
+[ 76291][V][Parsing.cpp:280] _parseArguments(): pos 163 =@164 &@167
+
+[ 76297][V][Parsing.cpp:291] _parseArguments(): arg 9 key: q value: 12
+
+[ 76303][V][Parsing.cpp:280] _parseArguments(): pos 168 =@170 &@172
+
+[ 76309][V][Parsing.cpp:291] _parseArguments(): arg 10 key: fb value: 1
+
+[ 76316][V][Parsing.cpp:280] _parseArguments(): pos 173 =@174 &@176
+
+[ 76322][V][Parsing.cpp:291] _parseArguments(): arg 11 key: b value: 0
+
+[ 76328][V][Parsing.cpp:280] _parseArguments(): pos 177 =@178 &@180
+
+[ 76334][V][Parsing.cpp:291] _parseArguments(): arg 12 key: c value: 0
+
+[ 76340][V][Parsing.cpp:280] _parseArguments(): pos 181 =@182 &@184
+
+[ 76346][V][Parsing.cpp:291] _parseArguments(): arg 13 key: s value: 0
+
+[ 76352][V][Parsing.cpp:280] _parseArguments(): pos 185 =@186 &@193
+
+[ 76358][V][Parsing.cpp:291] _parseArguments(): arg 14 key: e value: Normal
+
+[ 76365][V][Parsing.cpp:280] _parseArguments(): pos 194 =@196 &@205
+
+[ 76371][V][Parsing.cpp:291] _parseArguments(): arg 15 key: wb value: selected
+
+[ 76378][V][Parsing.cpp:280] _parseArguments(): pos 206 =@210 &@219
+
+[ 76384][V][Parsing.cpp:291] _parseArguments(): arg 16 key: awbg value: selected
+
+[ 76391][V][Parsing.cpp:280] _parseArguments(): pos 220 =@223 &@228
+
+[ 76397][V][Parsing.cpp:291] _parseArguments(): arg 17 key: wbm value: Auto
+
+[ 76404][V][Parsing.cpp:280] _parseArguments(): pos 229 =@231 &@240
+
+[ 76410][V][Parsing.cpp:291] _parseArguments(): arg 18 key: ec value: selected
+
+[ 76417][V][Parsing.cpp:280] _parseArguments(): pos 241 =@245 &@254
+
+[ 76423][V][Parsing.cpp:291] _parseArguments(): arg 19 key: aec2 value: selected
+
+[ 76430][V][Parsing.cpp:280] _parseArguments(): pos 255 =@258 &@260
+
+[ 76436][V][Parsing.cpp:291] _parseArguments(): arg 20 key: ael value: 0
+
+[ 76442][V][Parsing.cpp:280] _parseArguments(): pos 261 =@265 &@269
+
+[ 76448][V][Parsing.cpp:291] _parseArguments(): arg 21 key: aecv value: 300
+
+[ 76455][V][Parsing.cpp:280] _parseArguments(): pos 270 =@272 &@281
+
+[ 76461][V][Parsing.cpp:291] _parseArguments(): arg 22 key: gc value: selected
+
+[ 76468][V][Parsing.cpp:280] _parseArguments(): pos 282 =@286 &@288
+
+[ 76474][V][Parsing.cpp:291] _parseArguments(): arg 23 key: agcg value: 0
+
+[ 76480][V][Parsing.cpp:280] _parseArguments(): pos 289 =@292 &@295
+
+[ 76486][V][Parsing.cpp:291] _parseArguments(): arg 24 key: gcl value: 2X
+
+[ 76493][V][Parsing.cpp:280] _parseArguments(): pos 296 =@299 &@308
+
+[ 76499][V][Parsing.cpp:291] _parseArguments(): arg 25 key: wpc value: selected
+
+[ 76506][V][Parsing.cpp:280] _parseArguments(): pos 309 =@311 &@320
+
+[ 76512][V][Parsing.cpp:291] _parseArguments(): arg 26 key: rg value: selected
+
+[ 76519][V][Parsing.cpp:280] _parseArguments(): pos 321 =@325 &@334
+
+[ 76525][V][Parsing.cpp:291] _parseArguments(): arg 27 key: lenc value: selected
+
+[ 76532][V][Parsing.cpp:280] _parseArguments(): pos 335 =@338 &@347
+
+[ 76538][V][Parsing.cpp:291] _parseArguments(): arg 28 key: dcw value: selected
+
+[ 76545][V][Parsing.cpp:280] _parseArguments(): pos 348 =@350 &@-1
+
+[ 76551][V][Parsing.cpp:291] _parseArguments(): arg 29 key: li value: 0
+
+[ 76557][V][Parsing.cpp:298] _parseArguments(): args count: 30
+
+[ 76563][V][Parsing.cpp:197] _parseRequest(): Plain: iotSave=true&iwcThingName=ESP32CAM-RTSP&iwcApPassword=&iwcWifiSsid=MITLAB703&iwcWifiPassword=Mitlab703-2&iwcApTimeout=30&bt=AI+THINKER&fd=10&fs=SVGA+%28800x600%29&q=12&fb=1&b=0&c=0&s=0&e=Normal&wb=selected&awbg=selected&wbm=Auto&ec=selected&aec2=selected&ael=0&aecv=300&gc=selected&agcg=0&gcl=2X&wpc=selected&rg=selected&lenc=selected&dcw=selected&li=0
+
+[ 76598][V][Parsing.cpp:237] _parseRequest(): Request: /config
+
+[ 76604][V][Parsing.cpp:238] _parseRequest():  Arguments: iotSave=true&iwcThingName=ESP32CAM-RTSP&iwcApPassword=&iwcWifiSsid=MITLAB703&iwcWifiPassword=Mitlab703-2&iwcApTimeout=30&bt=AI+THINKER&fd=10&fs=SVGA+%28800x600%29&q=12&fb=1&b=0&c=0&s=0&e=Normal&wb=selected&awbg=selected&wbm=Auto&ec=selected&aec2=selected&ael=0&aecv=300&gc=selected&agcg=0&gcl=2X&wpc=selected&rg=selected&lenc=selected&dcw=selected&li=0
+
+Form validation result is: positive
+
+Updating configuration
+
+[iwcSys]
+
+|-- 'iwcThingName' with value: 'ESP32CAM'
+
+|-- 'iwcApPassword' with value: <hidden>
+
+|-- [iwcWifi0]
+
+|   |-- 'iwcWifiSsid' with value: 'MITLAB703'
+
+|   \-- 'iwcWifiPassword' with value: <hidden>
+
+\-- 'iwcApTimeout' with value: '30'
+
+[iwcCustom]
+
+|-- [board]
+
+|   \-- 'bt' with value: 'AI THINKER'
+
+|-- [camera]
+
+|   |-- 'fd' with value: '10'
+
+|   |-- 'fs' with value: 'SVGA (800x600)'
+
+|   |-- 'q' with value: '12'
+
+|   |-- 'eps' with value: '0'
+
+|   |-- 'fb' with value: '1'
+
+|   |-- 'b' with value: '0'
+
+|   |-- 'c' with value: '0'
+
+|   |-- 's' with value: '0'
+
+|   |-- 'e' with value: 'Normal'
+
+|   |-- 'wb' with value: '1'
+
+|   |-- 'awbg' with value: '1'
+
+|   |-- 'wbm' with value: 'Auto'
+
+|   |-- 'ec' with value: '1'
+
+|   |-- 'aec2' with value: '1'
+
+|   |-- 'ael' with value: '0'
+
+|   |-- 'aecv' with value: '300'
+
+|   |-- 'gc' with value: '1'
+
+|   |-- 'agcg' with value: '0'
+
+|   |-- 'gcl' with value: '2X'
+
+|   |-- 'bpc' with value: '0'
+
+|   |-- 'wpc' with value: '1'
+
+|   |-- 'rg' with value: '1'
+
+|   |-- 'lenc' with value: '1'
+
+|   |-- 'hm' with value: '0'
+
+|   |-- 'vm' with value: '0'
+
+|   |-- 'dcw' with value: '1'
+
+|   \-- 'cb' with value: '0'
+
+\-- [io]
+
+    \-- 'li' with value: '0'
+
+
+
+iwcThingName: ESP32CAM-RTSP
+
+iwcApPassword: <was not changed>
+
+iwcWifiSsid: MITLAB703
+
+iwcWifiPassword: <updated>
+
+iwcApTimeout: 30
+
+bt: AI THINKER
+
+fd: 10
+
+fs: SVGA (800x600)
+
+q: 12
+
+eps: not selected
+
+fb: 1
+
+b: 0
+
+c: 0
+
+s: 0
+
+e: Normal
+
+wb: selected
+
+awbg: selected
+
+wbm: Auto
+
+ec: selected
+
+aec2: selected
+
+ael: 0
+
+aecv: 300
+
+gc: selected
+
+agcg: 0
+
+gcl: 2X
+
+bpc: not selected
+
+wpc: selected
+
+rg: selected
+
+lenc: selected
+
+hm: not selected
+
+vm: not selected
+
+dcw: selected
+
+cb: not selected
+
+li: 0
+
+Config version: 1.5
+
+Config size: 455
+
+Saving configuration
+
+[iwcAll]
+
+|-- [iwcSys]
+
+|   |-- 'iwcThingName' with value: 'ESP32CAM-RTSP'
+
+|   |-- 'iwcApPassword' with value: <hidden>
+
+|   |-- [iwcWifi0]
+
+|   |   |-- 'iwcWifiSsid' with value: 'MITLAB703'
+
+|   |   \-- 'iwcWifiPassword' with value: <hidden>
+
+|   \-- 'iwcApTimeout' with value: '30'
+
+|-- [iwcCustom]
+
+|   |-- [board]
+
+|   |   \-- 'bt' with value: 'AI THINKER'
+
+|   |-- [camera]
+
+|   |   |-- 'fd' with value: '10'
+
+|   |   |-- 'fs' with value: 'SVGA (800x600)'
+
+|   |   |-- 'q' with value: '12'
+
+|   |   |-- 'eps' with value: '0'
+
+|   |   |-- 'fb' with value: '1'
+
+|   |   |-- 'b' with value: '0'
+
+|   |   |-- 'c' with value: '0'
+
+|   |   |-- 's' with value: '0'
+
+|   |   |-- 'e' with value: 'Normal'
+
+|   |   |-- 'wb' with value: '1'
+
+|   |   |-- 'awbg' with value: '1'
+
+|   |   |-- 'wbm' with value: 'Auto'
+
+|   |   |-- 'ec' with value: '1'
+
+|   |   |-- 'aec2' with value: '1'
+
+|   |   |-- 'ael' with value: '0'
+
+|   |   |-- 'aecv' with value: '300'
+
+|   |   |-- 'gc' with value: '1'
+
+|   |   |-- 'agcg' with value: '0'
+
+|   |   |-- 'gcl' with value: '2X'
+
+|   |   |-- 'bpc' with value: '0'
+
+|   |   |-- 'wpc' with value: '1'
+
+|   |   |-- 'rg' with value: '1'
+
+|   |   |-- 'lenc' with value: '1'
+
+|   |   |-- 'hm' with value: '0'
+
+|   |   |-- 'vm' with value: '0'
+
+|   |   |-- 'dcw' with value: '1'
+
+|   |   \-- 'cb' with value: '0'
+
+|   \-- [io]
+
+|       \-- 'li' with value: '0'
+
+\-- [hidden]
+
+
+
+[ 76932][V][main.cpp:374] on_config_saved(): on_config_saved
+
+[ 76932][V][esp32-hal-ledc.c:231] analogWrite(): GPIO 4 - Using Channel 15, Value = 0
+
+[ 76996][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[ 78791][V][Parsing.cpp:122] _parseRequest(): method: GET url: / search: 
+
+[ 78791][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[ 78792][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.111.14
+
+[ 78798][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[ 78804][V][Parsing.cpp:227] _parseRequest(): headerValue: keep-alive
+
+[ 78811][V][Parsing.cpp:226] _parseRequest(): headerName: Authorization
+
+[ 78817][V][Parsing.cpp:227] _parseRequest(): headerValue: Basic YWRtaW46TWl0bGFiNzAzLTI=
+
+[ 78825][V][Parsing.cpp:226] _parseRequest(): headerName: Upgrade-Insecure-Requests
+
+[ 78832][V][Parsing.cpp:227] _parseRequest(): headerValue: 1
+
+[ 78838][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[ 78843][V][Parsing.cpp:227] _parseRequest(): headerValue: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+
+[ 78861][V][Parsing.cpp:226] _parseRequest(): headerName: Accept
+
+[ 78866][V][Parsing.cpp:227] _parseRequest(): headerValue: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+
+[ 78882][V][Parsing.cpp:226] _parseRequest(): headerName: Referer
+
+[ 78888][V][Parsing.cpp:227] _parseRequest(): headerValue: http://192.168.111.14/config
+
+[ 78896][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[ 78902][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip, deflate
+
+[ 78908][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Language
+
+[ 78915][V][Parsing.cpp:227] _parseRequest(): headerValue: en-US,en;q=0.9
+
+[ 78921][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[ 78926][V][Parsing.cpp:237] _parseRequest(): Request: /
+
+[ 78931][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[ 78937][V][main.cpp:88] handle_root(): Handle root
+
+[ 79120][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[113609][V][WebServer.cpp:296] handleClient(): New client: client.localIP()=192.168.111.14
+
+[114840][V][Parsing.cpp:122] _parseRequest(): method: GET url: /stream search: 
+
+[114841][V][Parsing.cpp:226] _parseRequest(): headerName: Host
+
+[114842][V][Parsing.cpp:227] _parseRequest(): headerValue: 192.168.111.14
+
+[114848][V][Parsing.cpp:226] _parseRequest(): headerName: Connection
+
+[114854][V][Parsing.cpp:227] _parseRequest(): headerValue: keep-alive
+
+[114861][V][Parsing.cpp:226] _parseRequest(): headerName: Authorization
+
+[114867][V][Parsing.cpp:227] _parseRequest(): headerValue: Basic YWRtaW46TWl0bGFiNzAzLTI=
+
+[114875][V][Parsing.cpp:226] _parseRequest(): headerName: Upgrade-Insecure-Requests
+
+[114882][V][Parsing.cpp:227] _parseRequest(): headerValue: 1
+
+[114888][V][Parsing.cpp:226] _parseRequest(): headerName: User-Agent
+
+[114893][V][Parsing.cpp:227] _parseRequest(): headerValue: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+
+[114911][V][Parsing.cpp:226] _parseRequest(): headerName: Accept
+
+[114916][V][Parsing.cpp:227] _parseRequest(): headerValue: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+
+[114932][V][Parsing.cpp:226] _parseRequest(): headerName: Referer
+
+[114938][V][Parsing.cpp:227] _parseRequest(): headerValue: http://192.168.111.14/
+
+[114945][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Encoding
+
+[114951][V][Parsing.cpp:227] _parseRequest(): headerValue: gzip, deflate
+
+[114958][V][Parsing.cpp:226] _parseRequest(): headerName: Accept-Language
+
+[114964][V][Parsing.cpp:227] _parseRequest(): headerValue: en-US,en;q=0.9
+
+[114971][V][Parsing.cpp:254] _parseArguments(): args: 
+
+[114976][V][Parsing.cpp:237] _parseRequest(): Request: /stream
+
+[114981][V][Parsing.cpp:238] _parseRequest():  Arguments: 
+
+[114987][V][main.cpp:231] handle_stream(): handle_stream
+
+[114991][V][main.cpp:238] handle_stream(): starting streaming
+
+ ets Jun  8 2016 00:22:57
+
+
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+
+configsip: 0, SPIWP:0xee
+
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+
+mode:DIO, clock div:2
+
+load:0x3fff0030,len:1184
+
+load:0x40078000,len:13192
+
+load:0x40080400,len:3028
+
+entry 0x400805e4
+
+[     4][V][WiFiServer.h:42] WiFiServer(): WiFiServer::WiFiServer(port=80, ...)
+
+[     4][V][WebServer.cpp:87] WebServer(): WebServer::Webserver(port=80)
+
+[    33][D][esp32-hal-cpu.c:244] setCpuFrequencyMhz(): PLL: 480 / 2 = 240 Mhz, APB: 80000000 Hz
+
+[   481][I][esp32-hal-psram.c:96] psramInit(): PSRAM enabled
+
+[   507][V][[   509][I][main.cpp:400] setup(): CPU Freq: 240 Mhz
+
+[   509][I][main.cpp:401] setup(): Free heap: 248600 bytes
+
+[   509][I][main.cpp:402] setup(): SDK version: v4.4.4
+
+[   512][I][main.cpp:403] setup(): Starting ESP32CAM-RTSP...
+
+[   518][V][main.cpp:408] setup(): PSRAM found and initialized
+
+Config version: 1.5
+
+Config size: 455
+
+Loading configurations
+
+[iwcAll]
+
+|-- [iwcSys]
+
+|   |-- 'iwcThingName' with value: 'ESP32CAM-RTSP'
+
+|   |-- 'iwcApPassword' with value: <hidden>
+
+|   |-- [iwcWifi0]
+
+|   |   |-- 'iwcWifiSsid' with value: 'MITLAB703'
+
+|   |   \-- 'iwcWifiPassword' with value: <hidden>
+
+|   \-- 'iwcApTimeout' with value: '30'
+
+|-- [iwcCustom]
+
+|   |-- [board]
+
+|   |   \-- 'bt' with value: 'AI THINKER'
+
+|   |-- [camera]
+
+|   |   |-- 'fd' with value: '10'
+
+|   |   |-- 'fs' with value: 'SVGA (800x600)'
+
+|   |   |-- 'q' with value: '12'
+
+|   |   |-- 'eps' with value: '0'
+
+|   |   |-- 'fb' with value: '1'
+
+|   |   |-- 'b' with value: '0'
+
+|   |   |-- 'c' with value: '0'
+
+|   |   |-- 's' with value: '0'
+
+|   |   |-- 'e' with value: 'Normal'
+
+|   |   |-- 'wb' with value: '1'
+
+|   |   |-- 'awbg' with value: '1'
+
+|   |   |-- 'wbm' with value: 'Auto'
+
+|   |   |-- 'ec' with value: '1'
+
+|   |   |-- 'aec2' with value: '1'
+
+|   |   |-- 'ael' with value: '0'
+
+|   |   |-- 'aecv' with value: '300'
+
+|   |   |-- 'gc' with value: '1'
+
+|   |   |-- 'agcg' with value: '0'
+
+|   |   |-- 'gcl' with value: '2X'
+
+|   |   |-- 'bpc' with value: '0'
+
+|   |   |-- 'wpc' with value: '1'
+
+|   |   |-- 'rg' with value: '1'
+
+|   |   |-- 'lenc' with value: '1'
+
+|   |   |-- 'hm' with value: '0'
+
+|   |   |-- 'vm' with value: '0'
+
+|   |   |-- 'dcw' with value: '1'
+
+|   |   \-- 'cb' with value: '0'
+
+|   \-- [io]
+
+|       \-- 'li' with value: '0'
+
+\-- [hidden]
+
+[   656][V][main.cpp:286] initialize_camera(): initialize_camera
+
+[   656][I][main.cpp:287] initialize_camera(): Camera config: AI THINKER
+
+[   662][I][main.cpp:293] initialize_camera(): Frame size: SVGA (800x600)
+
+[   669][I][main.cpp:295] initialize_camera(): JPEG quality: 12
+
+[   674][I][main.cpp:296] initialize_camera(): Frame duration: 10 ms
+
+[   680][I][main.cpp:300] initialize_camera(): Enable PSRAM: 0
+
+[   686][I][main.cpp:301] initialize_camera(): Frame buffers: 1
+
+[   692][I][main.cpp:312] initialize_camera(): PSRAM disabled
+
+[   926][V][esp32-hal-ledc.c:231] analogWrite(): GPIO 4 - Using Channel 15, Value = 0
+
+State changing from: 0 to 2
+
+[   945][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 0 - WIFI_READY
+
+Setting up AP: ESP32CAM-RTSP
+
+Use password: <hidden>
+
+[  1038][V][WiFiGeneric.cpp:392] _arduino_event_cb(): AP Started
+
+[  1039][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 10 - AP_START
+
+AP IP address: 192.168.4.1
+
+[  1669][V][WiFiGeneric.cpp:395] _arduino_event_cb(): AP Stopped
+
+[  1670][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 11 - AP_STOP
+
+[  1670][V][WiFiGeneric.cpp:392] _arduino_event_cb(): AP Started
+
+[  1677][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 10 - AP_START
+
+AP timeout (ms): 30000
+
+State changed from: 0 to 2
+
+State changing from: 2 to 3
+
+[ 31699][V][WiFiGeneric.cpp:395] _arduino_event_cb(): AP Stopped
+
+[ 31699][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 11 - AP_STOP
+
+[ 31703][V][WiFiGeneric.cpp:392] _arduino_event_cb(): AP Started
+
+[ 31706][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 10 - AP_START
+
+CE (45770) wifi_init_default: esp_wifi_get_mac failed with 12289
+
+onnecting to [MITLAB703[ 31719][V][WiFiGeneric.cpp:395] _arduino_event_cb(): AP Stopped
+
+] (password is hidden)[ 31729][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 11 - AP_STOP
+
+
+
+WiFi timeout (ms): 30000
+
+[ 31763][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 0 - WIFI_READY
+
+[ 31768][V][WiFiGeneric.cpp:340] _arduino_event_cb(): STA Started
+
+[ 31770][V][WiFiGeneric.cpp:97] set_esp_interface_ip(): Configuring Station static IP: 0.0.0.0, MASK: 0.0.0.0, GW: 0.0.0.0
+
+[ 31770][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 2 - STA_START
+
+State changed from: 2 to 3
+
+[ 31948][V][WiFiGeneric.cpp:355] _arduino_event_cb(): STA Connected: SSID: MITLAB703, BSSID: 40:ee:15:c8:8e:1c, Channel: 1, Auth: WPA2_PSK
+
+[ 31949][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 4 - STA_CONNECTED
+
+[ 32014][V][WiFiGeneric.cpp:369] _arduino_event_cb(): STA Got New IP:192.168.111.14
+
+[ 32014][D][WiFiGeneric.cpp:1035] _eventCallback(): Arduino Event: 7 - STA_GOT_IP
+
+[ 32017][D][WiFiGeneric.cpp:1098] _eventCallback(): STA IP: 192.168.111.14, MASK: 255.255.255.0, GW: 192.168.111.1
+
+WiFi connected
+
+IP address: 192.168.111.14
+
+State changing from: 3 to 4
+
+[ 35140][W][ESPmDNS.cpp:222] queryService(): No results found!
+
+Active mDNS services: 0 
+Accepting connection
+
+[ 35143][V][main.cpp:362] on_connected(): on_connected
+
+[ 35156][I][ArduinoOTA.cpp:141] begin(): OTA server at: esp32-a4e57cd3b8a0.local:3232
+
+[ 35156][V][main.cpp:353] start_rtsp_server(): start_rtsp_server
+
+[ 35159][V][WiFiServer.h:42] WiFiServer(): WiFiServer::WiFiServer(port=554, ...)
+
+[ 35166][I][rtsp_server.cpp:9] rtsp_server(): Starting RTSP server
+
+State changed from: 3 to 4
+
