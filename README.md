@@ -109,7 +109,7 @@ This will put the ESP32-CAM board in download mode.
 
 this is our product
 
-![Our Product GuardianCam]([assets/ESP32CAM IN PAKAGE.jpeg](https://github.com/saffanazyan/face-recognation-IoT-project/blob/c4ab529c8ac33fe24d36eaeee4067065db8fc2e0/assets/ESP32CAM%20IN%20PAKAGE.jpeg))
+![assets/ESP32CAM IN PAKAGE.jpeg](https://github.com/saffanazyan/face-recognation-IoT-project/blob/c4ab529c8ac33fe24d36eaeee4067065db8fc2e0/assets/ESP32CAM%20IN%20PAKAGE.jpeg)
 
 ### FTDI adapter
 
