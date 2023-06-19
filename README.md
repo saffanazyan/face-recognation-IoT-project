@@ -47,10 +47,6 @@ It advertises HTTP (port 80) and RTSP (port 554)
 - USB to Serial (TTL level) converter, piggyback board ESP32-CAM-MB or other way to connect to the device,
 - [**PlatformIO**](https://platformio.org/) software (free download)
 
-## Installing and running PlatformIO
-
-PlatformIO is available for all major operating systems: Windows, Linux and MacOS. It is also provided as a plugin to [Visual Studio Code](https://visualstudio.microsoft.com).
-More information can be found at: [https://docs.platformio.org/en/latest/installation.html](https://docs.platformio.org/en/latest/installation.html) below the basics.
 
 ### Debian based systems command-line install
 
@@ -67,19 +63,6 @@ Install platformIO
 Install [**Visual Studio code**](https://code.visualstudio.com) and install the PlatformIO plugin.
 For command line usage Python and PlatformIO-Core is sufficient.
 
-## Putting the ESP32-CAM in download mode
-
-### ESP32-CAM-MB
-
-When using the ESP32-CAM-MB board, press and hold the GP0 button on the ESP32-CAM-MB board.
-Then press short the reset button (on the inside) on the ESP32-CAM board and release the GP0 button.
-This will put the ESP32-CAM board in download mode.
-
-### Our Product
-
-this is our product
-
-![assets/ESP32CAM IN PAKAGE.jpeg](https://github.com/saffanazyan/face-recognation-IoT-project/blob/f328fc96ee189df094afd2b6e6198fd72733b471/assets/ESP32CAM%20IN%20PACKAGE.jpeg)
 
 ### FTDI adapter
 
@@ -89,45 +72,6 @@ When using an FTDI adapter, make sure the adapter is set to 3.3 volt before conn
 
 After programming remove the wire to tge GPIO0 pin to exit the download mode.
 
-## Compiling and deploying the software
-
-Open a command line or terminal window and clone this repository from GitHub.
-
-```sh
-git clone https://github.com/rzeldent/esp32cam-rtsp.git
-```
-
-go into the folder
-
-```sh
-cd esp32cam-rtsp
-```
-
-Next, the firmware has to be build and deployed to the ESP32.
-There are to flavours to do this; using the command line or the graphical interface of Visual Studio Code.
-I recommend to use VIsual Studio Code as it is free to use and offers more insight.
-
-### Using the command line
-
-First the source code has to be compiled. Type:
-
-```sh
-pio run
-```
-
-When finished, firmware has to be uploaded.
-Make sure the ESP32-CAM is in download mode (see previous section) and type:
-
-```sh
- pio run -t upload
-```
-
-When done remove the jumper when using a FTDI adapter or press the reset button on the ESP32-CAM.
-To monitor the output, start a terminal using:
-
-```sh
- pio device monitor
-```
 
 ### Using Visual studio
 
@@ -137,88 +81,6 @@ Open the project in a new window. Run the following tasks using the ```Terminal 
 - PlatformIO: Upload (esp32cam)
 
 To monitor the behavior run the task, run: ```PlatformIO: Monitor (esp32cam)```
-
-## Setting up the ESP32CAM-RTSP
-
-After the programming of the ESP32, there is no configuration present. This needs to be added.
-To connect initially to the device open the WiFi connections and select the WiFi network / access point called **ESP32CAM-RTSP**.
-Initially there is no password present.
-
-After connecting, the browser should automatically open the status page.
-In case this does not happens automatically, connect to [http://192.168.4.1](http://192.168.4.1).
-This page will display the current settings and status. On the bottom, there is a link to the config. Click on this link.
-
-This link brings up the configuration screen when connecting fot the first time.
-
-![Configuration screen](assets/Configuration.png)
-
-Configure at least:
-
-- The access point to connect to. No dropdown is present to show available networks!
-- A password for accessing the Access point (AP) when starting. (required)
-- Type of the ESP32-CAM board
-
-When finished press ```Apply``` to save the configuration. The screen will redirect to the status screen.
-Here it is possible to reboot the device so the settings take effect.
-It is also possible to restart manually by pressing the reset button.
-
-## Connecting to the configuration
-
-After the initial configuration and the device is connected to an access point, the device can be configured over http.
-
-When a connection is made to [http://esp32cam-rtsp](http://esp32cam-rtsp) the status screen is shown.
-
-![Status screen](assets/index.png)
-
-In case changes have been made to the configuration, this is shown and the possibility to restart is given.
-
-Clicking on the ```change configuration``` button will open the configuration. It is possible that a password dialog is shown before entering.
-If this happens, for the user enter 'admin' and for the password the value that has been configured as the Access Point password.
-
-## Connecting to the RTSP stream :video_camera:
-
-RTSP stream is available at: [rtsp://esp32cam-rtsp.local:554/mjpeg/1](rtsp://esp32cam-rtsp.local:554/mjpeg/1).
-This link can be opened with for example [VLC](https://www.videolan.org/vlc/).
-
-## Connecting to the JPEG motion server :video_camera:
-
-The JPEG motion server server is available using a normal web browser at: [http://esp32cam-rtsp.local:/stream](http://esp32cam-rtsp.local/stream).
-
-## Connecting to the image server :camera:
-
-The image server server is available using a normal web browser at: [http://esp32cam-rtsp.local:/snapshot](http://esp32cam-rtsp.local/snapshot).
-
-:bangbang: **Please be aware that there is no password present!**.
-Everybody with access to the device can see the streams or images! Beware of :trollface:!
-
-## API
-
-There is a minimum API present to perform some tasks using HTTP requests. For some requests authentication is required.
-The authentication used is basic authentication. The user is always admin and the password the access point key.\
-If using a browser, remember that the authentication is stored in the browser session so needs to be entered only once.
-
-The URLs are below:
-
-### GET: /restart
-
-Calling this URL will restart the device. Authentication is required.
-
-### GET: /config
-
-Calling this URL will start the form for configuring the device in the browser. Authentication is required.
-
-### GET: /snapshot
-
-Calling this URL will return a JPEG snapshot of the camera in the browser.
-
-This request can also be used (for example using cURL) to save the snapshot to a file.
-
-### GET: /flash?v={intensity}
-
-Calling this URL will set the intensity of the flash LED. Authentication is required.
-
-The parameter v for the intensity must be between 0 (off) and 255 (max).
-If no v parameter is present, it will be set to the value of the flash LED intensity from configuration.
 
 ## Issues / Nice to know
 
@@ -247,47 +109,13 @@ If not stable, it has been reported that restarts occur when starting up (probab
 The software disables the brown out protection so there is some margin in the voltage.
 Some people suggest to add a capacitor over the 5V input to stabilize the voltage.
 
-### PSRAM / Buffers / JPEG quality
-
-Some esp32cam modules have additional ram on the board. This allows to use this ram as frame buffer.
-The availability of PSRAM can be seen in the HTML status overview.
-
-Not all the boards are equipped with PSRAM:
-
-|  Board            | PSRAM |
-|---                |---    |
-| ESP32CAM          | Yes   |
-| ESP32CAM  (USB-C) | No    |
-| AI THINKER        | Yes   |
-| TTGO T-CAM        | No    |
-| M5 STACK|         | No    |
-| WROVER KIT        | Yes   |
-
-Depending on the image resolution, framerate and quality, the PSRAM must be enabled and/or the number of frame buffers increased to keep up with the data generated by the sensor.
-There are (a lot of?) boards around with faulty PSRAM. If the camera fails to initialize, this might be a reason. See on [Reddit](https://www.reddit.com/r/esp32/comments/z2hyns/i_have_a_faulty_psram_on_my_esp32cam_what_should/).
-In this case disable the use of PSRAM in the configuration and do not use camera modes that require PSRAM,
-
-For the setting JPEG quality, a lower number means higher quality.
-Be aware that a very high quality (low number) can cause the ESP32 cam to crash or return no image.
-
-The default settings are:
-
-- No PSRAM
-  - SVGA (800x600)
-  - 1 frame buffer
-  - JPEG quality 12
-
-- With PSRAM
-  - UXGA (1600x1200)
-  - 2 frame buffers
-  - JPEG quality 10
-
 ### Camera module
 
 Be careful when connecting the camera module.
 Make sure it is connected the right way around (Camera pointing away from the board) and the ribbon cable inserted to the end before locking it.
 
-## Credits
+### Our Product
 
-esp32cam-rtsp depends on PlatformIO, Bootstrap 5 and Micro-RTSP by Kevin Hester.
+this is our product
 
+![assets/ESP32CAM IN PAKAGE.jpeg](https://github.com/saffanazyan/face-recognation-IoT-project/blob/f328fc96ee189df094afd2b6e6198fd72733b471/assets/ESP32CAM%20IN%20PACKAGE.jpeg)
