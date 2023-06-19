@@ -105,6 +105,12 @@ When using the ESP32-CAM-MB board, press and hold the GP0 button on the ESP32-CA
 Then press short the reset button (on the inside) on the ESP32-CAM board and release the GP0 button.
 This will put the ESP32-CAM board in download mode.
 
+### Our Product
+
+this is our product
+
+![Our Product GuardianCam ](assets/ESP32CAM IN PAKAGE.jpeg)
+
 ### FTDI adapter
 
 When using an FTDI adapter, make sure the adapter is set to 3.3 volt before connecting. Use the wiring schema below.
