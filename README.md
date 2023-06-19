@@ -321,20 +321,3 @@ Make sure it is connected the right way around (Camera pointing away from the bo
 
 esp32cam-rtsp depends on PlatformIO, Bootstrap 5 and Micro-RTSP by Kevin Hester.
 
-## Change history
-
-- March 2023
-  - Added options to set PSRAM / Frame buffers
-  - Added JPEG Motion streaming
-- Feb 2023
-  - Added additional settings for camera configuration
-- Nov 2022
-  - Added OTA
-  - Fix for grabbing frame
-  - Fixed bug: Increased WiFi password length
-- Sep 2022
-  - Added GUI with bootstrap
-  - More information in web page
-  - Added camera preview in HTML
-- Jul 2022
-  - Initial version
